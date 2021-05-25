@@ -35,6 +35,27 @@ Miguel Ángel Pérez García
 
 # Exploración
 
+```{r}
+cites <- read.csv("cites_2021_original.csv", header = TRUE)
+head(cites)
+summary(cites)
+```
+
+```{r}
+sapply(cites, function(x) sum(is.na(x))) # NA
+```
+```{r}
+sapply(cites, function(x) sum(x=="")) #Si es vacio
+```
+```{r}
+sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
+```
+
+```{r}
+boxplot(cites$Importer.reported.quantity)
+boxplot(cites$Exporter.reported.quantity)
+```
+
 # Limpieza
 
 # Análisis
