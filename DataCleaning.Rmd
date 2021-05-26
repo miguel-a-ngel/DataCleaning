@@ -53,7 +53,9 @@ sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
 
 ```{r}
 boxplot(cites$Importer.reported.quantity)
+boxplot.stats(cites$Importer.reported.quantity)$out
 boxplot(cites$Exporter.reported.quantity)
+boxplot.stats(cites$Exporter.reported.quantity)$out
 ```
 
 # Limpieza
