@@ -626,9 +626,21 @@ head(cites)</code></pre>
 ## [85]   2000.000   2000.000   3000.000   8975.000   1600.000 102000.000
 ## [91]  13000.000   1302.000   1200.000   1200.000   1200.000   2420.000
 ## [97]   1724.000  15103.000  13250.000</code></pre>
+<pre class="r"><code>cites[duplicated(cites),]</code></pre>
+<pre><code>##    Year App.                  Taxon    Class     Order     Family     Genus
+## 34 2020    I Pteronura brasiliensis Mammalia Carnivora Mustelidae Pteronura
+##    Importer Exporter Origin Importer.reported.quantity
+## 34       CO       US                                 1
+##    Exporter.reported.quantity Term Unit Purpose Source
+## 34                         NA live            Z      F</code></pre>
+<pre class="r"><code>dim(cites)</code></pre>
+<pre><code>## [1] 913  16</code></pre>
 </div>
 <div id="limpieza" class="section level1">
 <h1><span class="header-section-number">2</span> Limpieza</h1>
+<pre class="r"><code>cites = unique(cites)
+dim(cites)</code></pre>
+<pre><code>## [1] 912  16</code></pre>
 </div>
 <div id="análisis" class="section level1">
 <h1><span class="header-section-number">3</span> Análisis</h1>

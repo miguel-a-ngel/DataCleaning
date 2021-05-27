@@ -58,6 +58,19 @@ boxplot(cites$Exporter.reported.quantity)
 boxplot.stats(cites$Exporter.reported.quantity)$out
 ```
 
+
+```{r}
+cites[duplicated(cites),]
+dim(cites)
+
+```
+
 # Limpieza
+
+```{r}
+cites = unique(cites)
+dim(cites)
+```
+
 
 # Análisis
