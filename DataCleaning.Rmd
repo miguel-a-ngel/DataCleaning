@@ -36,6 +36,7 @@ Miguel Ángel Pérez García
 # Exploración
 
 ```{r}
+#Captura
 cites <- read.csv("cites_2021_original.csv", header = TRUE)
 head(cites)
 summary(cites)
@@ -60,6 +61,7 @@ boxplot.stats(cites$Exporter.reported.quantity)$out
 
 
 ```{r}
+#Duplicados
 cites[duplicated(cites),]
 dim(cites)
 
@@ -68,6 +70,7 @@ dim(cites)
 # Limpieza
 
 ```{r}
+#Eliminar duplicados
 cites = unique(cites)
 dim(cites)
 ```
