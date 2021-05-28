@@ -49,6 +49,7 @@ sapply(cites, function(x) sum(x=="")) #Si es vacio
 sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
 ```
 
+# Limpieza
 
 ```{r}
 #Declaramos los nuevas columnas que utilizaremos
@@ -84,12 +85,25 @@ cites[duplicated(cites),]
 dim(cites)
 ```
 
-# Limpieza
+
 
 ```{r}
 #Eliminar duplicados
 cites = unique(cites)
 dim(cites)
+```
+
+```{r}
+#sustición de cadena vacía por "Not applied"
+for (i in 1:nrow(cites)) {
+  for(j in 1:ncol(cites)){
+    if(is.na(cites[i,j])){
+      print(i + " " + j)
+      cites[i,j] <- "Not applied"
+    }
+  }
+}
+
 ```
 
 ```{r}
