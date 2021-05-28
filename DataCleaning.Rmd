@@ -43,20 +43,38 @@ summary(cites)
 ```
 
 ```{r}
+#Detección de nulos/vacíos
 sapply(cites, function(x) sum(is.na(x))) # NA
-```
-```{r}
 sapply(cites, function(x) sum(x=="")) #Si es vacio
-```
-```{r}
 sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
 ```
 
+
 ```{r}
-boxplot(cites$Importer.reported.quantity)
-boxplot.stats(cites$Importer.reported.quantity)$out
-boxplot(cites$Exporter.reported.quantity)
-boxplot.stats(cites$Exporter.reported.quantity)$out
+#Declaramos los nuevas columnas que utilizaremos
+auxNumber <- c()
+auxType <- c()
+#Según el si el campo de importación/exportación está vacío o no,
+#vamos creando el vector según convenga
+for (i in 1:nrow(cites)) {
+  if(!is.na(cites$Importer.reported.quantity[i])){
+    auxNumber[i] <- cites$Importer.reported.quantity[i]
+    auxType[i] <- "Imported"
+  }else if(!is.na(cites$Exporter.reported.quantity[i])){
+    auxNumber[i] <- cites$Exporter.reported.quantity[i]
+    auxType[i] <- "Exported"
+  }
+}
+#Asignamos las nuevas columnas al dataset
+cites$Exportation.type <- auxType
+cites$Exportation.number <- auxNumber
+```
+
+
+```{r}
+#Creación de boxplot para detección de outliers
+boxplot(cites$Exportation.number)
+boxplot.stats(cites$Exportation.number)$out
 ```
 
 
@@ -64,7 +82,6 @@ boxplot.stats(cites$Exporter.reported.quantity)$out
 #Duplicados
 cites[duplicated(cites),]
 dim(cites)
-
 ```
 
 # Limpieza
@@ -73,6 +90,13 @@ dim(cites)
 #Eliminar duplicados
 cites = unique(cites)
 dim(cites)
+```
+
+```{r}
+#Eliminamos las columnas que ya no nos interesan
+cites$Origin <- NULL
+cites$Importer.reported.quantity <- NULL
+cites$Exporter.reported.quantity <- NULL
 ```
 
 
