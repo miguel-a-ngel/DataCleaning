@@ -44,9 +44,9 @@ summary(cites)
 
 ```{r}
 #Detección de nulos/vacíos
-sapply(cites, function(x) sum(is.na(x))) # NA
+#sapply(cites, function(x) sum(is.na(x))) # NA
 sapply(cites, function(x) sum(x=="")) #Si es vacio
-sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
+#sapply(cites, function(x) sum(x==" ")) # Si no es vacio, aunque tiene un espacio
 ```
 
 # Limpieza
@@ -94,24 +94,35 @@ dim(cites)
 ```
 
 ```{r}
-#sustición de cadena vacía por "Not applied"
-for (i in 1:nrow(cites)) {
-  for(j in 1:ncol(cites)){
-    if(is.na(cites[i,j])){
-      print(i + " " + j)
-      cites[i,j] <- "Not applied"
-    }
-  }
-}
-
-```
-
-```{r}
 #Eliminamos las columnas que ya no nos interesan
 cites$Origin <- NULL
 cites$Importer.reported.quantity <- NULL
 cites$Exporter.reported.quantity <- NULL
 ```
+
+
+```{r}
+#Añadir nivel Not applied a Unit, Class, Source and Genus
+levels(cites$Unit) <- c(levels(cites$Unit), "Not applied")
+levels(cites$Class) <- c(levels(cites$Class), "Not applied")
+levels(cites$Source) <- c(levels(cites$Source), "Not applied")
+levels(cites$Genus) <- c(levels(cites$Genus), "Not applied")
+levels(cites$Purpose) <- c(levels(cites$Purpose), "Not applied")
+
+```
+
+
+```{r}
+#sustición de cadena vacía por "Not applied"
+for (i in 1:nrow(cites)) {
+  for(j in 1:ncol(cites)){
+    if((cites[i,j]=="")){
+      cites[i,j] <- "Not applied"
+    }
+  }
+}
+```
+
 
 
 # Análisis
