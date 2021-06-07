@@ -18,6 +18,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 print(getwd())
+library(car)
+
 ```
 
 
@@ -98,7 +100,11 @@ dim(cites)
 cites$Origin <- NULL
 cites$Importer.reported.quantity <- NULL
 cites$Exporter.reported.quantity <- NULL
+cites$Family <- NULL
+cites$Order <- NULL
+cites$Genus <- NULL
 ```
+
 
 
 ```{r}
@@ -106,7 +112,6 @@ cites$Exporter.reported.quantity <- NULL
 levels(cites$Unit) <- c(levels(cites$Unit), "Not applied")
 levels(cites$Class) <- c(levels(cites$Class), "Not applied")
 levels(cites$Source) <- c(levels(cites$Source), "Not applied")
-levels(cites$Genus) <- c(levels(cites$Genus), "Not applied")
 levels(cites$Purpose) <- c(levels(cites$Purpose), "Not applied")
 
 ```
@@ -126,3 +131,42 @@ for (i in 1:nrow(cites)) {
 
 
 # Análisis
+
+```{r}
+#Prueba de shapiro-wilk
+shapiro.test(cites$Exportation.number)
+```
+
+```{r}
+install.packages("car")
+```
+
+```{r}
+leveneTest(y = cites$Exportation.number, group = cites$Importer, center = "median")
+```
+```{r}
+leveneTest(y = cites$Exportation.number, group = cites$Exportation.type, center = "median")
+```
+
+```{r}
+table1 <- table(cites$Importer, cites$Taxon)
+chisq.test(table1)
+```
+
+```{r}
+table2 <- table(cites$Exporter, cites$Taxon)
+chisq.test(table2)
+```
+
+```{r}
+table2 <- table(cites$Exporter, cites$Exportation.number)
+chisq.test(table2)
+```
+
+
+```{r}
+table2 <- table(cites$Importer, cites$Exportation.number)
+chisq.test(table2)
+```
+
+
