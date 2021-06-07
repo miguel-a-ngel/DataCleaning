@@ -1,0 +1,913 @@
+"","Year","App.","Taxon","Class","Importer","Exporter","Term","Unit","Purpose","Source","Exportation.type","Exportation.number"
+"1",2020,"I","Addax nasomaculatus","Mammalia","PK","AE","live","Not applied","T","C","Imported",4
+"2",2020,"I","Capra falconeri","Mammalia","AT","PK","trophies","Not applied","H","W","Exported",1
+"3",2020,"I","Capra falconeri","Mammalia","ES","PK","trophies","Not applied","H","W","Exported",1
+"4",2020,"I","Capra falconeri","Mammalia","RU","PK","trophies","Not applied","H","W","Exported",3
+"5",2020,"I","Capra falconeri","Mammalia","US","PK","trophies","Not applied","H","W","Exported",5
+"6",2020,"I","Hippotragus niger","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",35
+"7",2020,"I","Oryx spp.","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",28
+"8",2020,"I","Oryx leucoryx","Mammalia","PK","AE","live","Not applied","T","C","Imported",4
+"9",2020,"I","Probosciger aterrimus","Aves","CZ","LK","live","Not applied","T","C","Exported",4
+"10",2020,"I","Canis lupus","Mammalia","US","PK","specimens","Not applied","S","W","Exported",35
+"11",2020,"I","Crocodylus acutus","Reptilia","DE","CO","skins","Not applied","T","D","Exported",100
+"12",2020,"I","Crocodylus acutus","Reptilia","KR","CO","skins","Not applied","T","D","Exported",500
+"13",2020,"I","Crocodylus niloticus","Reptilia","UA","MD","live","Not applied","Q","U","Exported",1
+"14",2020,"I","Elephas maximus","Mammalia","KH","PK","live","Not applied","Z","C","Exported",1
+"15",2020,"I","Elephas maximus","Mammalia","KR","LK","specimens","Not applied","S","W","Exported",900
+"16",2020,"I","Elephas maximus","Mammalia","US","LK","specimens","Not applied","S","W","Exported",101
+"17",2020,"I","Loxodonta africana","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",1
+"18",2020,"I","Loxodonta africana","Mammalia","SZ","CM","trophies","Not applied","H","W","Exported",2
+"19",2020,"I","Equus spp.","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",28
+"20",2020,"I","Acinonyx jubatus","Mammalia","MW","ZA","live","Not applied","N","W","Imported",2
+"21",2020,"I","Caracal caracal","Mammalia","MD","RU","live","Not applied","Z","C","Imported",2
+"22",2020,"I","Leopardus pardalis","Mammalia","CZ","BY","live","Not applied","Z","C","Exported",1
+"23",2020,"I","Panthera pardus","Mammalia","MW","ZW","live","Not applied","N","Not applied","Imported",3
+"24",2020,"I","Panthera pardus","Mammalia","MW","ZW","live","Not applied","N","W","Imported",4
+"25",2020,"I","Panthera pardus","Mammalia","US","LK","specimens","Not applied","S","W","Exported",2
+"26",2020,"I","Panthera tigris","Mammalia","BY","UA","live","Not applied","Q","C","Imported",1
+"27",2020,"I","Panthera tigris","Mammalia","PK","ZA","live","Not applied","Z","C","Imported",2
+"28",2020,"I","Balearica pavonina","Aves","ET","ML","live","Not applied","Not applied","Not applied","Exported",4
+"29",2020,"I","Grus vipio","Aves","CD","FR","live","Not applied","Z","C","Imported",2
+"30",2020,"I","Pan troglodytes","Mammalia","ES","ML","specimens","Not applied","Not applied","Not applied","Exported",20
+"31",2020,"I","Lemur catta","Mammalia","BY","RU","live","Not applied","Z","C","Imported",4
+"32",2020,"I","Lemur catta","Mammalia","MD","RU","live","Not applied","Z","C","Imported",7
+"33",2020,"I","Pteronura brasiliensis","Mammalia","CO","US","live","Not applied","Z","F","Imported",1
+"35",2020,"I","Pteronura brasiliensis","Mammalia","TT","US","live","Not applied","Z","C","Imported",1
+"36",2020,"I","Nepenthes spp.","Not applied","ZA","LK","live","Not applied","T","A","Exported",50
+"37",2020,"I","Nepenthes hybrid","Not applied","CA","LK","live","Not applied","T","D","Exported",250
+"38",2020,"I","Nepenthes hybrid","Not applied","GB","LK","live","Not applied","T","D","Exported",15500
+"39",2020,"I","Nepenthes hybrid","Not applied","HK","LK","live","Not applied","T","A","Exported",70
+"40",2020,"I","Nepenthes hybrid","Not applied","HK","LK","live","Not applied","T","D","Exported",1420
+"41",2020,"I","Nepenthes hybrid","Not applied","JP","LK","live","Not applied","T","D","Exported",910
+"42",2020,"I","Nepenthes hybrid","Not applied","KR","LK","live","Not applied","T","D","Exported",50
+"43",2020,"I","Nepenthes hybrid","Not applied","MY","LK","live","Not applied","T","D","Exported",50
+"44",2020,"I","Nepenthes hybrid","Not applied","SG","LK","live","Not applied","T","D","Exported",200
+"45",2020,"I","Nepenthes hybrid","Not applied","TH","LK","live","Not applied","T","D","Exported",270
+"46",2020,"I","Nepenthes hybrid","Not applied","US","LK","live","Not applied","T","D","Exported",2610
+"47",2020,"I","Nepenthes rajah","Not applied","CA","LK","live","Not applied","T","D","Exported",70
+"48",2020,"I","Nepenthes rajah","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"49",2020,"I","Nepenthes rajah","Not applied","GB","LK","live","Not applied","T","D","Exported",2000
+"50",2020,"I","Nepenthes rajah","Not applied","HK","LK","live","Not applied","T","D","Exported",120
+"51",2020,"I","Nepenthes rajah","Not applied","JP","LK","live","Not applied","T","D","Exported",120
+"52",2020,"I","Nepenthes rajah","Not applied","TH","LK","live","Not applied","T","D","Exported",50
+"53",2020,"I","Nepenthes rajah","Not applied","US","LK","live","Not applied","T","D","Exported",530
+"54",2020,"I","Chlamydotis macqueenii","Aves","PK","AE","live","Not applied","N","C","Imported",5460
+"55",2020,"I","Syrmaticus ellioti","Aves","BY","RU","live","Not applied","Z","C","Imported",3
+"56",2020,"I","Anodorhynchus hyacinthinus","Aves","LK","BE","live","Not applied","B","C","Imported",1
+"57",2020,"I","Ara glaucogularis","Aves","TT","US","live","Not applied","P","C","Imported",1
+"58",2020,"I","Ara macao","Aves","PK","BE","live","Not applied","P","C","Imported",2
+"59",2020,"I","Psittacus erithacus","Aves","GB","PK","live","Not applied","P","C","Exported",1
+"60",2020,"I","Psittacus erithacus","Aves","LK","US","live","Not applied","B","C","Imported",1
+"61",2020,"I","Psittacus erithacus","Aves","PK","SA","live","Not applied","P","C","Imported",1
+"62",2020,"I","Psittacus erithacus","Aves","TR","IQ","live","Not applied","P","F","Exported",1
+"63",2020,"I","Psittacus erithacus","Aves","TT","BB","live","Not applied","T","C","Imported",5
+"64",2020,"I","Psittacus erithacus timneh","Aves","TT","CA","live","Not applied","P","C","Imported",1
+"65",2020,"I","Diceros bicornis","Mammalia","ZA","RW","specimens","Not applied","S","W","Exported",14
+"66",2020,"I","Rhinoceros spp.","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",2
+"67",2020,"I","Geochelone elegans","Reptilia","RU","LK","live","Not applied","T","C","Exported",3
+"68",2020,"I","Tremarctos ornatus","Mammalia","GB","CO","specimens","Not applied","S","W","Exported",1
+"69",2020,"II","Acipenser baerii","Actinopteri","AE","BY","caviar","kg","T","C","Exported",3.63
+"70",2020,"II","Acipenser baerii","Actinopteri","AM","BY","caviar","kg","T","C","Exported",2.2
+"71",2020,"II","Acipenser baerii","Actinopteri","AU","BY","caviar","kg","T","C","Exported",10
+"72",2020,"II","Acipenser baerii","Actinopteri","AZ","BY","caviar","kg","T","C","Exported",18.64
+"73",2020,"II","Acipenser baerii","Actinopteri","HK","BY","caviar","kg","T","C","Exported",6.66
+"74",2020,"II","Acipenser baerii","Actinopteri","IT","BY","caviar","kg","T","C","Exported",10
+"75",2020,"II","Acipenser baerii","Actinopteri","JO","BY","caviar","kg","T","C","Exported",10.2
+"76",2020,"II","Acipenser baerii","Actinopteri","KG","BY","caviar","kg","T","C","Exported",30.1
+"77",2020,"II","Acipenser baerii","Actinopteri","KZ","BY","caviar","kg","T","C","Exported",36.4
+"78",2020,"II","Acipenser baerii","Actinopteri","LT","BY","caviar","kg","T","C","Exported",10.04
+"79",2020,"II","Acipenser baerii","Actinopteri","MD","BY","caviar","kg","T","C","Exported",7.68
+"80",2020,"II","Acipenser baerii","Actinopteri","MO","FR","caviar","kg","T","C","Imported",2.9
+"81",2020,"II","Acipenser baerii","Actinopteri","NZ","BY","caviar","kg","T","C","Exported",128.7
+"82",2020,"II","Acipenser baerii","Actinopteri","RU","BY","caviar","kg","T","C","Exported",700
+"83",2020,"II","Acipenser baerii","Actinopteri","RU","BY","bodies","kg","T","C","Exported",504
+"84",2020,"II","Acipenser baerii","Actinopteri","RU","BY","caviar","kg","T","C","Exported",255.39
+"85",2020,"II","Acipenser baerii","Actinopteri","RU","BY","live","kg","T","C","Exported",22000
+"86",2020,"II","Acipenser baerii","Actinopteri","RU","BY","live","Not applied","T","C","Exported",800
+"87",2020,"II","Acipenser baerii","Actinopteri","SG","BY","caviar","kg","T","C","Exported",2.36
+"88",2020,"II","Acipenser baerii","Actinopteri","UA","BY","caviar","kg","T","C","Exported",7.38
+"89",2020,"II","Acipenser baerii","Actinopteri","US","BY","caviar","kg","T","C","Exported",2
+"90",2020,"II","Acipenser baerii","Actinopteri","UZ","BY","caviar","kg","T","C","Exported",25.6
+"91",2020,"II","Acipenser gueldenstaedtii","Actinopteri","AU","MD","caviar","kg","T","C","Exported",2.51
+"92",2020,"II","Acipenser gueldenstaedtii","Actinopteri","DE","MD","caviar","kg","T","C","Exported",39.46
+"93",2020,"II","Acipenser gueldenstaedtii","Actinopteri","IL","MD","caviar","kg","T","C","Exported",0.4
+"94",2020,"II","Acipenser gueldenstaedtii","Actinopteri","JP","MD","caviar","kg","T","C","Exported",29.49
+"95",2020,"II","Acipenser gueldenstaedtii","Actinopteri","MO","FR","caviar","kg","T","C","Imported",0.9
+"96",2020,"II","Acipenser gueldenstaedtii","Actinopteri","UA","MD","caviar","kg","T","C","Exported",19
+"97",2020,"II","Acipenser gueldenstaedtii","Actinopteri","UA","MD","meat","kg","T","C","Exported",11100
+"98",2020,"II","Acipenser gueldenstaedtii","Actinopteri","US","MD","caviar","kg","T","C","Exported",15.76
+"99",2020,"II","Acipenseridae hybrid","Actinopteri","AU","MD","caviar","kg","T","C","Exported",4.49
+"100",2020,"II","Acipenseridae hybrid","Actinopteri","DE","MD","caviar","kg","T","C","Exported",47.58
+"101",2020,"II","Acipenseridae hybrid","Actinopteri","IL","MD","caviar","kg","T","C","Exported",0.4
+"102",2020,"II","Acipenseridae hybrid","Actinopteri","JP","MD","caviar","kg","T","C","Exported",27.416
+"103",2020,"II","Acipenseridae hybrid","Actinopteri","RU","MD","meat","kg","T","C","Exported",12000
+"104",2020,"II","Acipenseridae hybrid","Actinopteri","UA","MD","meat","kg","T","C","Exported",24750
+"105",2020,"II","Acipenseridae hybrid","Actinopteri","US","MD","caviar","kg","T","C","Exported",11.79
+"106",2020,"II","Acipenser ruthenus","Actinopteri","AE","BY","caviar","kg","T","C","Exported",3.05
+"107",2020,"II","Acipenser ruthenus","Actinopteri","AM","BY","caviar","kg","T","C","Exported",5
+"108",2020,"II","Acipenser ruthenus","Actinopteri","AU","MD","caviar","kg","T","C","Exported",2.49
+"109",2020,"II","Acipenser ruthenus","Actinopteri","BG","BY","caviar","kg","T","C","Exported",20.1
+"110",2020,"II","Acipenser ruthenus","Actinopteri","CH","BY","caviar","kg","T","C","Exported",7
+"111",2020,"II","Acipenser ruthenus","Actinopteri","DE","MD","caviar","kg","T","C","Exported",15.29
+"112",2020,"II","Acipenser ruthenus","Actinopteri","HK","BY","caviar","kg","T","C","Exported",0.6
+"113",2020,"II","Acipenser ruthenus","Actinopteri","IT","BY","caviar","kg","T","C","Exported",1.71
+"114",2020,"II","Acipenser ruthenus","Actinopteri","JP","MD","caviar","kg","T","C","Exported",26.602
+"115",2020,"II","Acipenser ruthenus","Actinopteri","KZ","BY","caviar","kg","T","C","Exported",1.8
+"116",2020,"II","Acipenser ruthenus","Actinopteri","LU","BY","caviar","kg","T","C","Exported",2.1
+"117",2020,"II","Acipenser ruthenus","Actinopteri","MD","BY","caviar","kg","T","C","Exported",1.5
+"118",2020,"II","Acipenser ruthenus","Actinopteri","NZ","BY","caviar","kg","T","C","Exported",12.3
+"119",2020,"II","Acipenser ruthenus","Actinopteri","RU","BY","caviar","kg","T","C","Exported",62.1
+"120",2020,"II","Acipenser ruthenus","Actinopteri","RU","BY","live","kg","T","C","Exported",3000
+"121",2020,"II","Acipenser ruthenus","Actinopteri","SG","BY","caviar","kg","T","C","Exported",3
+"122",2020,"II","Acipenser ruthenus","Actinopteri","UA","MD","caviar","kg","T","C","Exported",100
+"123",2020,"II","Acipenser ruthenus","Actinopteri","US","MD","caviar","kg","T","C","Exported",11.6
+"124",2020,"II","Acipenser ruthenus","Actinopteri","UZ","BY","caviar","kg","T","C","Exported",2.25
+"125",2020,"II","Huso huso","Actinopteri","AU","MD","caviar","kg","T","C","Exported",0.51
+"126",2020,"II","Huso huso","Actinopteri","DE","MD","caviar","kg","T","C","Exported",31.1
+"127",2020,"II","Huso huso","Actinopteri","GB","MD","meat","kg","T","C","Exported",2700
+"128",2020,"II","Huso huso","Actinopteri","IL","MD","caviar","kg","T","C","Exported",0.2
+"129",2020,"II","Huso huso","Actinopteri","JP","MD","caviar","kg","T","C","Exported",27.786
+"130",2020,"II","Huso huso","Actinopteri","MO","FR","caviar","kg","T","C","Imported",0.9
+"131",2020,"II","Huso huso","Actinopteri","RU","BY","live","kg","T","C","Exported",10000
+"132",2020,"II","Huso huso","Actinopteri","UA","MD","caviar","kg","T","C","Exported",15.5
+"133",2020,"II","Huso huso","Actinopteri","UA","MD","meat","kg","T","C","Exported",13950
+"134",2020,"II","Acropora nana","Anthozoa","LK","VN","live","Not applied","B","C","Imported",750
+"135",2020,"II","Acropora spathulata","Anthozoa","LK","VN","live","Not applied","T","C","Imported",20
+"136",2020,"II","Uromastyx geyri","Reptilia","GH","ML","live","Not applied","Not applied","Not applied","Exported",2400
+"137",2020,"II","Uromastyx geyri","Reptilia","HK","ML","live","Not applied","Not applied","Not applied","Exported",100
+"138",2020,"II","Uromastyx geyri","Reptilia","TG","ML","live","Not applied","Not applied","Not applied","Exported",2500
+"139",2020,"II","Alligator mississippiensis","Reptilia","FR","MG","leather products (small)","Not applied","T","W","Exported",142
+"140",2020,"II","Alligator mississippiensis","Reptilia","LK","US","specimens","Not applied","M","W","Imported",32
+"141",2020,"II","Alligator mississippiensis","Reptilia","MO","CH","leather products (small)","Not applied","T","C","Imported",1
+"142",2020,"II","Alligator mississippiensis","Reptilia","MO","CH","leather products (small)","Not applied","T","W","Imported",6
+"143",2020,"II","Alligator mississippiensis","Reptilia","MO","FR","leather products (small)","Not applied","T","W","Imported",50
+"144",2020,"II","Alligator mississippiensis","Reptilia","MO","IT","leather products (large)","Not applied","T","W","Imported",1
+"145",2020,"II","Alligator mississippiensis","Reptilia","MO","IT","leather products (small)","Not applied","T","W","Imported",136
+"146",2020,"II","Alligator mississippiensis","Reptilia","RS","AT","leather products (small)","Not applied","T","W","Imported",5
+"147",2020,"II","Alligator mississippiensis","Reptilia","RS","CH","leather products (small)","Not applied","T","W","Imported",22
+"148",2020,"II","Alligator mississippiensis","Reptilia","RS","US","specimens","Not applied","T","W","Imported",19
+"149",2020,"II","Caiman crocodilus","Reptilia","AZ","BY","live","Not applied","Z","C","Exported",3
+"150",2020,"II","Caiman crocodilus crocodilus","Reptilia","MO","IT","leather products (small)","Not applied","T","W","Imported",132
+"151",2020,"II","Caiman crocodilus fuscus","Reptilia","AE","CO","leather products (small)","Not applied","T","C","Exported",32
+"152",2020,"II","Caiman crocodilus fuscus","Reptilia","DE","CO","skins","Not applied","T","C","Exported",1000
+"153",2020,"II","Caiman crocodilus fuscus","Reptilia","FR","MG","leather products (small)","Not applied","T","C","Exported",30
+"154",2020,"II","Caiman crocodilus fuscus","Reptilia","GB","CO","leather products (small)","Not applied","T","C","Exported",133
+"155",2020,"II","Caiman crocodilus fuscus","Reptilia","JP","CO","leather products (small)","Not applied","T","C","Exported",10
+"156",2020,"II","Caiman crocodilus fuscus","Reptilia","KR","CO","leather products (small)","Not applied","T","C","Exported",15
+"157",2020,"II","Caiman crocodilus fuscus","Reptilia","KR","CO","skins","Not applied","T","C","Exported",5645
+"158",2020,"II","Caiman crocodilus fuscus","Reptilia","KW","CO","leather products (small)","Not applied","T","C","Exported",15
+"159",2020,"II","Caiman crocodilus fuscus","Reptilia","MG","FR","leather products (small)","Not applied","T","C","Imported",18
+"160",2020,"II","Caiman crocodilus fuscus","Reptilia","MG","FR","skin pieces","Not applied","T","C","Imported",16
+"161",2020,"II","Caiman crocodilus fuscus","Reptilia","MO","IT","leather products (small)","Not applied","T","C","Imported",5
+"162",2020,"II","Caiman crocodilus fuscus","Reptilia","MX","CO","skins","Not applied","T","C","Exported",34103
+"163",2020,"II","Caiman crocodilus fuscus","Reptilia","US","CO","leather products (small)","Not applied","T","C","Exported",784
+"164",2020,"II","Caiman crocodilus fuscus","Reptilia","US","CO","leather products (small)","Not applied","T","C","Exported",392
+"165",2020,"II","Caiman crocodilus fuscus","Reptilia","US","CO","skins","Not applied","T","C","Exported",600
+"166",2020,"II","Caiman crocodilus fuscus","Reptilia","US","CO","tails","Not applied","T","C","Exported",600
+"167",2020,"II","Caiman crocodilus yacare","Reptilia","MO","IT","leather products (small)","Not applied","T","W","Imported",317
+"168",2020,"II","Operculicarya decaryi","Not applied","KR","MG","live","Not applied","T","A","Exported",2
+"169",2020,"II","Operculicarya pachypus","Not applied","HK","MG","live","Not applied","T","A","Exported",1
+"170",2020,"II","Operculicarya pachypus","Not applied","JP","MG","live","Not applied","T","A","Exported",180
+"171",2020,"II","Operculicarya pachypus","Not applied","TW","MG","live","Not applied","T","A","Exported",8
+"172",2020,"II","Pachypodium lamerei","Not applied","JP","MG","live","Not applied","T","A","Exported",5
+"173",2020,"II","Pachypodium rosulatum","Not applied","HK","MG","live","Not applied","T","A","Exported",30
+"174",2020,"II","Pachypodium rosulatum","Not applied","JP","MG","live","Not applied","T","A","Exported",80
+"175",2020,"II","Pachypodium rosulatum","Not applied","TW","MG","live","Not applied","T","A","Exported",10
+"176",2020,"II","Pachypodium rutenbergianum","Not applied","HK","MG","live","Not applied","T","A","Exported",40
+"177",2020,"II","Boa constrictor","Reptilia","AZ","BY","live","Not applied","Z","C","Exported",5
+"178",2020,"II","Boa constrictor","Reptilia","LB","BY","live","Not applied","T","C","Exported",100
+"179",2020,"II","Boa constrictor","Reptilia","RU","BY","live","Not applied","B","C","Exported",6
+"180",2020,"II","Boa constrictor","Reptilia","RU","BY","live","Not applied","Q","C","Exported",10
+"181",2020,"II","Boa constrictor","Reptilia","RU","BY","live","Not applied","T","C","Exported",18
+"182",2020,"II","Boa constrictor","Reptilia","US","CO","live","Not applied","T","C","Exported",700
+"183",2020,"II","Calabaria reinhardtii","Reptilia","CA","CM","live","Not applied","T","W","Exported",8
+"184",2020,"II","Calabaria reinhardtii","Reptilia","VN","CM","live","Not applied","T","W","Exported",30
+"185",2020,"II","Epicrates cenchria","Reptilia","LB","BY","live","Not applied","T","C","Exported",10
+"186",2020,"II","Epicrates cenchria","Reptilia","RU","BY","live","Not applied","B","C","Exported",5
+"187",2020,"II","Cephalophus dorsalis","Mammalia","US","CM","trophies","Not applied","H","W","Exported",2
+"188",2020,"II","Cephalophus dorsalis","Mammalia","ZA","CM","trophies","Not applied","H","W","Exported",1
+"189",2020,"II","Cephalophus silvicultor","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",1
+"190",2020,"II","Damaliscus pygargus","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",60
+"191",2020,"II","Ovis cycloceros cycloceros","Mammalia","AT","PK","trophies","Not applied","H","W","Exported",1
+"192",2020,"II","Ovis cycloceros cycloceros","Mammalia","DE","PK","trophies","Not applied","H","W","Exported",1
+"193",2020,"II","Ovis cycloceros cycloceros","Mammalia","SE","PK","trophies","Not applied","H","W","Exported",1
+"194",2020,"II","Ovis cycloceros cycloceros","Mammalia","US","PK","trophies","Not applied","H","W","Exported",3
+"195",2020,"II","Ovis punjabiensis","Mammalia","AT","PK","trophies","Not applied","H","W","Exported",1
+"196",2020,"II","Ovis punjabiensis","Mammalia","DE","PK","trophies","Not applied","H","W","Exported",1
+"197",2020,"II","Ovis punjabiensis","Mammalia","ES","PK","trophies","Not applied","H","W","Exported",3
+"198",2020,"II","Ovis punjabiensis","Mammalia","IT","PK","trophies","Not applied","H","W","Exported",2
+"199",2020,"II","Ovis punjabiensis","Mammalia","RU","PK","trophies","Not applied","H","W","Exported",3
+"200",2020,"II","Ovis punjabiensis","Mammalia","US","PK","trophies","Not applied","H","W","Exported",5
+"201",2020,"II","Philantomba monticola","Mammalia","ES","CM","trophies","Not applied","H","W","Exported",1
+"202",2020,"II","Philantomba monticola","Mammalia","MX","CM","trophies","Not applied","H","W","Exported",1
+"203",2020,"II","Philantomba monticola","Mammalia","RU","CM","skulls","Not applied","H","W","Exported",1
+"204",2020,"II","Philantomba monticola","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",1
+"205",2020,"II","Philantomba monticola","Mammalia","US","CM","trophies","Not applied","H","W","Exported",1
+"206",2020,"II","Cacatua alba","Aves","TT","BB","live","Not applied","T","C","Imported",2
+"207",2020,"II","Cacatua alba","Aves","UA","MD","live","Not applied","Q","C","Exported",1
+"208",2020,"II","Cacatua ducorpsii","Aves","SG","LK","live","Not applied","T","C","Exported",6
+"209",2020,"II","Cacatua galerita","Aves","LK","PH","live","Not applied","B","C","Imported",4
+"210",2020,"II","Cacatua ophthalmica","Aves","LK","PH","live","Not applied","B","C","Imported",4
+"211",2020,"II","Eolophus roseicapilla","Aves","LK","PH","live","Not applied","B","C","Imported",4
+"212",2020,"II","Eolophus roseicapilla","Aves","TR","IQ","live","Not applied","P","F","Exported",1
+"213",2020,"II","Canis lupus","Mammalia","MD","RU","live","Not applied","Z","C","Imported",2
+"214",2020,"II","Canis lupus","Mammalia","PL","BY","specimens","Not applied","S","W","Exported",31
+"215",2020,"II","Carcharhinus falciformis","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",55097.2
+"216",2020,"II","Carcharhinus falciformis","Elasmobranchii","HK","LK","skins","kg","T","W","Exported",55700
+"217",2020,"II","Carcharhinus falciformis","Elasmobranchii","IT","CV","specimens","Not applied","S","W","Exported",1
+"218",2020,"II","Carcharhinus falciformis","Elasmobranchii","NZ","LK","bodies","kg","T","W","Exported",180
+"219",2020,"II","Carcharhinus falciformis","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",2100
+"220",2020,"II","Carcharhinus longimanus","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",1500
+"221",2020,"II","Euphyllia cristata","Anthozoa","LK","AU","live","Not applied","B","C","Imported",300
+"222",2020,"II","Euphyllia paraancora","Anthozoa","LK","AU","live","Not applied","B","C","Imported",300
+"223",2020,"II","Saimiri sciureus","Mammalia","MD","RU","live","Not applied","Z","C","Imported",3
+"224",2020,"II","Cercocebus chrysogaster","Mammalia","CD","ZW","live","Not applied","L","I","Imported",11
+"225",2020,"II","Cercopithecus hamlyni","Mammalia","TG","CD","live","Not applied","T","W","Exported",9
+"226",2020,"II","Cercopithecus kandti","Mammalia","TG","CD","live","Not applied","T","W","Exported",4
+"227",2020,"II","Cercopithecus lhoesti","Mammalia","CD","ZW","live","Not applied","L","I","Imported",2
+"228",2020,"II","Cercopithecus neglectus","Mammalia","AF","CD","live","Not applied","T","W","Exported",5
+"229",2020,"II","Cercopithecus nictitans","Mammalia","AE","CD","live","Not applied","T","W","Exported",10
+"230",2020,"II","Cercopithecus nictitans","Mammalia","AF","CD","live","Not applied","T","W","Exported",5
+"231",2020,"II","Cercopithecus nictitans","Mammalia","CD","ZW","live","Not applied","L","I","Imported",5
+"232",2020,"II","Cercopithecus wolfi","Mammalia","AF","CD","live","Not applied","T","W","Exported",5
+"233",2020,"II","Colobus guereza","Mammalia","US","ET","trophies","Not applied","H","W","Exported",2
+"234",2020,"II","Erythrocebus patas","Mammalia","US","CM","trophies","Not applied","H","W","Exported",1
+"235",2020,"II","Lophocebus albigena","Mammalia","CD","ZW","live","Not applied","L","I","Imported",2
+"236",2020,"II","Lophocebus aterrimus","Mammalia","AF","CD","live","Not applied","T","W","Exported",5
+"237",2020,"II","Macaca nemestrina","Mammalia","UA","BY","live","Not applied","Q","C","Exported",2
+"238",2020,"II","Macaca nemestrina","Mammalia","UA","BY","live","Not applied","Q","C","Exported",1
+"239",2020,"II","Macaca nemestrina","Mammalia","UA","BY","live","Not applied","Q","C","Exported",1
+"240",2020,"II","Papio anubis","Mammalia","CZ","CM","trophies","Not applied","H","W","Exported",1
+"241",2020,"II","Papio anubis","Mammalia","DE","CM","trophies","Not applied","H","W","Exported",1
+"242",2020,"II","Papio anubis","Mammalia","ES","CM","trophies","Not applied","H","W","Exported",2
+"243",2020,"II","Papio anubis","Mammalia","FR","CM","trophies","Not applied","H","W","Exported",3
+"244",2020,"II","Papio anubis","Mammalia","IT","CM","trophies","Not applied","H","W","Exported",1
+"245",2020,"II","Papio anubis","Mammalia","LU","CM","trophies","Not applied","H","W","Exported",1
+"246",2020,"II","Papio anubis","Mammalia","RU","CM","skulls","Not applied","H","W","Exported",1
+"247",2020,"II","Papio anubis","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",3
+"248",2020,"II","Papio anubis","Mammalia","SZ","CM","trophies","Not applied","H","W","Exported",2
+"249",2020,"II","Papio anubis","Mammalia","US","CM","trophies","Not applied","H","W","Exported",5
+"250",2020,"II","Papio hamadryas","Mammalia","US","ET","trophies","Not applied","H","W","Exported",1
+"251",2020,"II","Papio ursinus","Mammalia","FI","ZA","skulls","Not applied","H","W","Imported",2
+"252",2020,"II","Papio ursinus","Mammalia","FI","ZA","trophies","Not applied","H","W","Imported",1
+"253",2020,"II","Theropithecus gelada","Mammalia","US","ET","specimens","mg","S","W","Exported",50
+"254",2020,"II","Theropithecus gelada","Mammalia","US","ET","specimens","Not applied","S","W","Exported",225
+"255",2020,"II","Furcifer willsii","Reptilia","JP","MG","live","Not applied","T","W","Exported",5
+"256",2020,"II","Rhampholeon spectrum","Reptilia","ES","CM","live","Not applied","T","W","Exported",150
+"257",2020,"II","Rhampholeon spectrum","Reptilia","US","CM","live","Not applied","T","W","Exported",150
+"258",2020,"II","Trioceros cristatus","Reptilia","CA","CM","live","Not applied","T","W","Exported",10
+"259",2020,"II","Trioceros cristatus","Reptilia","ES","CM","live","Not applied","T","W","Exported",260
+"260",2020,"II","Trioceros cristatus","Reptilia","GB","CM","live","Not applied","T","W","Exported",10
+"261",2020,"II","Trioceros cristatus","Reptilia","JP","CM","live","Not applied","T","W","Exported",32
+"262",2020,"II","Trioceros cristatus","Reptilia","VN","CM","live","Not applied","T","W","Exported",80
+"263",2020,"II","Trioceros johnstoni","Reptilia","US","CD","live","Not applied","T","W","Exported",500
+"264",2020,"II","Trioceros oweni","Reptilia","JP","CM","live","Not applied","T","W","Exported",17
+"265",2020,"II","Trioceros oweni","Reptilia","VN","CM","live","Not applied","T","W","Exported",20
+"266",2020,"II","Trioceros serratus","Reptilia","CA","CM","live","Not applied","T","W","Exported",62
+"267",2020,"II","Trioceros serratus","Reptilia","JP","CM","live","Not applied","T","W","Exported",16
+"268",2020,"II","Ptyas mucosus","Reptilia","US","CO","leather products (small)","Not applied","T","W","Exported",1
+"269",2020,"II","Goura victoria","Aves","LK","PH","live","Not applied","B","C","Imported",2
+"270",2020,"II","Crocodylus niloticus","Reptilia","CH","MG","leather products (small)","Not applied","Q","C","Exported",55
+"271",2020,"II","Crocodylus niloticus","Reptilia","FI","ZA","rug","Not applied","H","W","Imported",2
+"272",2020,"II","Crocodylus niloticus","Reptilia","MO","FR","leather products (small)","Not applied","T","R","Imported",4
+"273",2020,"II","Crocodylus niloticus","Reptilia","MO","IT","leather products (small)","Not applied","T","C","Imported",1
+"274",2020,"II","Crocodylus niloticus","Reptilia","MO","IT","leather products (small)","Not applied","T","C","Imported",22
+"275",2020,"II","Crocodylus niloticus","Reptilia","XX","MW","live","Not applied","N","W","Exported",3420
+"276",2020,"II","Crocodylus porosus","Reptilia","MO","FR","leather products (small)","Not applied","T","R","Imported",31
+"277",2020,"II","Duncanopsammia axifuga","Anthozoa","LK","AU","live","Not applied","B","C","Imported",400
+"278",2020,"II","Duncanopsammia axifuga","Anthozoa","LK","VN","live","Not applied","B","C","Imported",1500
+"279",2020,"II","Duncanopsammia axifuga","Anthozoa","LK","VN","live","Not applied","T","C","Imported",20
+"280",2020,"II","Caulastraea curvata","Anthozoa","LK","VN","live","Not applied","T","C","Imported",10
+"281",2020,"II","Caulastraea furcata","Anthozoa","LK","VN","live","Not applied","B","C","Imported",1500
+"282",2020,"II","Leptailurus serval","Mammalia","LT","CM","trophies","Not applied","H","W","Exported",1
+"283",2020,"II","Leptailurus serval","Mammalia","MD","RU","live","Not applied","Z","C","Imported",2
+"284",2020,"II","Panthera leo","Mammalia","FI","ZA","trophies","Not applied","H","C","Imported",5
+"285",2020,"II","Panthera leo","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",2
+"286",2020,"II","Panthera leo","Mammalia","SZ","CM","trophies","Not applied","H","W","Exported",1
+"287",2020,"II","Galago moholi","Mammalia","TH","CD","live","Not applied","T","W","Exported",120
+"288",2020,"II","Otolemur crassicaudatus","Mammalia","TG","CD","live","Not applied","T","W","Exported",50
+"289",2020,"II","Otolemur crassicaudatus","Mammalia","TH","CD","live","Not applied","T","W","Exported",65
+"290",2020,"II","Giraffa camelopardalis","Mammalia","ML","SN","unspecified","Not applied","Not applied","Not applied","Imported",6
+"291",2020,"II","Giraffa camelopardalis","Mammalia","ML","ZA","unspecified","Not applied","Not applied","Not applied","Imported",9
+"292",2020,"II","Giraffa camelopardalis","Mammalia","MW","ZW","live","Not applied","N","W","Imported",4
+"293",2020,"II","Glaucostegus spp.","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",500
+"294",2020,"II","Balearica regulorum","Aves","BD","CD","live","Not applied","T","W","Exported",24
+"295",2020,"II","Grus antigone","Aves","LK","BE","live","Not applied","Z","C","Imported",4
+"296",2020,"II","Hippopotamus amphibius","Mammalia","CH","CM","trophies","Not applied","H","W","Exported",1
+"297",2020,"II","Hirudo medicinalis","Hirudinoidea","MD","RO","live","Not applied","T","C","Imported",1000
+"298",2020,"II","Hirudo verbana","Hirudinoidea","CH","RS","live","Not applied","T","F","Exported",1500
+"299",2020,"II","Holothuria fuscogilva","Holothuroidea","HK","LK","bodies","kg","T","W","Exported",154.5
+"300",2020,"II","Holothuria fuscogilva","Holothuroidea","MY","LK","bodies","kg","T","W","Exported",40
+"301",2020,"II","Holothuria nobilis","Holothuroidea","HK","LK","bodies","kg","T","W","Exported",193.5
+"302",2020,"II","Holothuria nobilis","Holothuroidea","SG","LK","bodies","kg","T","W","Exported",360
+"303",2020,"II","Isurus oxyrinchus","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",300
+"304",2020,"II","Isurus oxyrinchus","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",600
+"305",2020,"II","Isurus oxyrinchus","Elasmobranchii","US","TT","meat","kg","T","W","Exported",10205.83
+"306",2020,"II","Dalbergia spp.","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"307",2020,"II","Dalbergia cochinchinensis","Not applied","GB","LA","leaves","Not applied","S","W","Exported",116
+"308",2020,"II","Dalbergia cultrata","Not applied","GB","LA","leaves","Not applied","S","W","Exported",13
+"309",2020,"II","Dalbergia latifolia","Not applied","MO","DE","wood product","kg","T","O","Imported",1.6
+"310",2020,"II","Dalbergia oliveri","Not applied","GB","LA","leaves","Not applied","S","W","Exported",13
+"311",2020,"II","Dalbergia pinnata","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"312",2020,"II","Dalbergia sissoo","Not applied","DE","PK","wood product","Not applied","T","A","Exported",210
+"313",2020,"II","Dalbergia sissoo","Not applied","GB","PK","wood product","Not applied","T","A","Exported",910
+"314",2020,"II","Dalbergia sissoo","Not applied","US","PK","wood product","Not applied","T","A","Exported",47465
+"315",2020,"II","Guibourtia demeusei","Not applied","CN","CD","logs","m3","T","W","Exported",158.074
+"316",2020,"II","Guibourtia demeusei","Not applied","TR","CD","logs","m3","T","W","Exported",26.696
+"317",2020,"II","Pericopsis elata","Not applied","BE","CD","logs","m3","T","W","Exported",499.086
+"318",2020,"II","Pericopsis elata","Not applied","BE","CD","sawn wood","m3","T","W","Exported",1005.382
+"319",2020,"II","Pericopsis elata","Not applied","CN","CD","logs","m3","T","W","Exported",16143.736
+"320",2020,"II","Pericopsis elata","Not applied","ES","CD","logs","m3","T","W","Exported",122.823
+"321",2020,"II","Pericopsis elata","Not applied","ES","CD","sawn wood","m3","T","W","Exported",88.614
+"322",2020,"II","Pericopsis elata","Not applied","IT","CD","logs","m3","T","W","Exported",63.747
+"323",2020,"II","Pericopsis elata","Not applied","JP","CD","logs","m3","T","W","Exported",40.044
+"324",2020,"II","Pericopsis elata","Not applied","KR","CD","logs","m3","T","W","Exported",45.831
+"325",2020,"II","Pericopsis elata","Not applied","KW","CD","logs","m3","T","W","Exported",28.908
+"326",2020,"II","Pericopsis elata","Not applied","KW","CD","sawn wood","m3","T","W","Exported",55.483
+"327",2020,"II","Pericopsis elata","Not applied","MY","CD","sawn wood","m3","T","W","Exported",70.316
+"328",2020,"II","Pericopsis elata","Not applied","PK","CD","sawn wood","m3","T","W","Exported",15.056
+"329",2020,"II","Pericopsis elata","Not applied","PT","CD","logs","m3","T","W","Exported",360.104
+"330",2020,"II","Pericopsis elata","Not applied","SA","CD","sawn wood","m3","T","W","Exported",89.497
+"331",2020,"II","Pericopsis elata","Not applied","TH","CD","logs","m3","T","W","Exported",22.831
+"332",2020,"II","Pericopsis elata","Not applied","TR","CD","logs","m3","T","W","Exported",173.983
+"333",2020,"II","Pericopsis elata","Not applied","TW","CD","logs","m3","T","W","Exported",1731.131
+"334",2020,"II","Pericopsis elata","Not applied","VN","CD","logs","m3","T","W","Exported",9481.891
+"335",2020,"II","Pericopsis elata","Not applied","XX","CD","logs","m3","T","W","Exported",46.601
+"336",2020,"II","Pterocarpus erinaceus","Not applied","CN","ML","sawn wood","m3","Not applied","Not applied","Exported",62418
+"337",2020,"II","Senna meridionalis","Not applied","JP","MG","live","Not applied","T","A","Exported",20
+"338",2020,"II","Aloe macroclada","Not applied","BF","MG","leaves","Not applied","T","A","Exported",55
+"339",2020,"II","Chalcopsitta cardinalis","Aves","SG","LK","live","Not applied","T","C","Exported",2
+"340",2020,"II","Chalcopsitta sintillata","Aves","SG","LK","live","Not applied","T","C","Exported",4
+"341",2020,"II","Eos reticulata","Aves","SG","LK","live","Not applied","T","C","Exported",4
+"342",2020,"II","Eos rubra","Aves","SG","LK","live","Not applied","T","C","Exported",6
+"343",2020,"II","Glossopsitta concinna","Aves","LK","KW","live","Not applied","B","C","Imported",2
+"344",2020,"II","Lorius garrulus","Aves","MV","LK","live","Not applied","T","C","Exported",2
+"345",2020,"II","Lorius lory","Aves","MV","LK","live","Not applied","T","C","Exported",2
+"346",2020,"II","Pseudeos fuscata","Aves","MV","LK","live","Not applied","T","C","Exported",1
+"347",2020,"II","Trichoglossus chlorolepidotus","Aves","LK","KW","live","Not applied","P","F","Imported",4
+"348",2020,"II","Trichoglossus haematodus","Aves","SG","LK","live","Not applied","T","C","Exported",10
+"349",2020,"II","Trichoglossus ornatus","Aves","MV","LK","live","Not applied","T","C","Exported",2
+"350",2020,"II","Scaphiophryne spinosa","Amphibia","JP","MG","live","Not applied","T","W","Exported",47
+"351",2020,"II","Moschus moschiferus","Mammalia","HK","BY","musk","Not applied","T","W","Exported",32
+"352",2020,"II","Tauraco persa","Aves","AM","ML","live","Not applied","Not applied","Not applied","Exported",150
+"353",2020,"II","Acanthastrea amakusensis","Anthozoa","LK","AU","live","Not applied","B","C","Imported",300
+"354",2020,"II","Blastomussa wellsi","Anthozoa","LK","VN","live","Not applied","T","C","Imported",20
+"355",2020,"II","Scolymia australis","Anthozoa","LK","AU","live","Not applied","B","C","Imported",300
+"356",2020,"II","Scolymia australis","Anthozoa","LK","VN","live","Not applied","T","C","Imported",20
+"357",2020,"II","Manta spp.","Elasmobranchii","HK","LK","gill plates","kg","T","W","Exported",300
+"358",2020,"II","Manta birostris","Elasmobranchii","HK","LK","gill plates","kg","T","W","Exported",1024.5
+"359",2020,"II","Manta birostris","Elasmobranchii","IT","CV","specimens","Not applied","S","W","Exported",1
+"360",2020,"II","Mobula japanica","Elasmobranchii","HK","LK","gill plates","kg","T","W","Exported",7192.1
+"361",2020,"II","Mobula japanica","Elasmobranchii","HK","LK","gill plates","Not applied","T","W","Exported",100
+"362",2020,"II","Mobula mobular","Elasmobranchii","HK","LK","gill plates","kg","T","W","Exported",626.4
+"363",2020,"II","Mobula mobular","Elasmobranchii","HK","LK","live","kg","T","W","Exported",450
+"364",2020,"II","Mobula tarapacana","Elasmobranchii","HK","LK","gill plates","kg","T","W","Exported",3183.8
+"365",2020,"II","Mobula tarapacana","Elasmobranchii","HK","LK","live","Not applied","T","W","Exported",100
+"366",2020,"II","Nepenthes spp.","Not applied","CA","LK","live","Not applied","T","A","Exported",1020
+"367",2020,"II","Nepenthes spp.","Not applied","GB","LK","live","Not applied","T","A","Exported",27000
+"368",2020,"II","Nepenthes spp.","Not applied","HK","LK","live","Not applied","T","A","Exported",4380
+"369",2020,"II","Nepenthes spp.","Not applied","JP","LK","live","Not applied","T","A","Exported",1430
+"370",2020,"II","Nepenthes spp.","Not applied","KR","LK","live","Not applied","T","A","Exported",340
+"371",2020,"II","Nepenthes spp.","Not applied","SG","LK","live","Not applied","T","A","Exported",500
+"372",2020,"II","Nepenthes spp.","Not applied","TH","LK","live","Not applied","T","A","Exported",320
+"373",2020,"II","Nepenthes spp.","Not applied","TW","LK","live","Not applied","T","A","Exported",150
+"374",2020,"II","Nepenthes spp.","Not applied","US","LK","live","Not applied","T","A","Exported",6850
+"375",2020,"II","Nepenthes alata","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"376",2020,"II","Nepenthes alata","Not applied","US","LK","live","Not applied","T","A","Exported",100
+"377",2020,"II","Nepenthes albomarginata","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"378",2020,"II","Nepenthes albomarginata","Not applied","MY","LK","live","Not applied","T","A","Exported",70
+"379",2020,"II","Nepenthes albomarginata","Not applied","US","LK","live","Not applied","T","A","Exported",100
+"380",2020,"II","Nepenthes alisaputrana","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"381",2020,"II","Nepenthes ampullaria","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"382",2020,"II","Nepenthes ampullaria","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"383",2020,"II","Nepenthes ampullaria","Not applied","HK","LK","live","Not applied","T","A","Exported",200
+"384",2020,"II","Nepenthes ampullaria","Not applied","JP","LK","live","Not applied","T","A","Exported",380
+"385",2020,"II","Nepenthes ampullaria","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"386",2020,"II","Nepenthes ampullaria","Not applied","MY","LK","live","Not applied","T","A","Exported",70
+"387",2020,"II","Nepenthes ampullaria","Not applied","SG","LK","live","Not applied","T","A","Exported",170
+"388",2020,"II","Nepenthes ampullaria","Not applied","US","LK","live","Not applied","T","A","Exported",810
+"389",2020,"II","Nepenthes aristolochioides","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"390",2020,"II","Nepenthes bellii","Not applied","CA","LK","live","Not applied","T","A","Exported",140
+"391",2020,"II","Nepenthes bellii","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"392",2020,"II","Nepenthes bellii","Not applied","HK","LK","live","Not applied","T","A","Exported",570
+"393",2020,"II","Nepenthes bellii","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"394",2020,"II","Nepenthes bellii","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"395",2020,"II","Nepenthes bellii","Not applied","SG","LK","live","Not applied","T","A","Exported",70
+"396",2020,"II","Nepenthes bellii","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"397",2020,"II","Nepenthes bellii","Not applied","US","LK","live","Not applied","T","A","Exported",430
+"398",2020,"II","Nepenthes bicalcarata","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"399",2020,"II","Nepenthes bicalcarata","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"400",2020,"II","Nepenthes bicalcarata","Not applied","JP","LK","live","Not applied","T","A","Exported",210
+"401",2020,"II","Nepenthes bicalcarata","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"402",2020,"II","Nepenthes bicalcarata","Not applied","MY","LK","live","Not applied","T","A","Exported",70
+"403",2020,"II","Nepenthes bicalcarata","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"404",2020,"II","Nepenthes bicalcarata","Not applied","US","LK","live","Not applied","T","A","Exported",870
+"405",2020,"II","Nepenthes bongso","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"406",2020,"II","Nepenthes bongso","Not applied","HK","LK","live","Not applied","T","A","Exported",70
+"407",2020,"II","Nepenthes bongso","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"408",2020,"II","Nepenthes bongso","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"409",2020,"II","Nepenthes bongso","Not applied","US","LK","live","Not applied","T","A","Exported",200
+"410",2020,"II","Nepenthes boschiana","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"411",2020,"II","Nepenthes boschiana","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"412",2020,"II","Nepenthes boschiana","Not applied","US","LK","live","Not applied","T","A","Exported",170
+"413",2020,"II","Nepenthes burbidgeae","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"414",2020,"II","Nepenthes burbidgeae","Not applied","HK","LK","live","Not applied","T","A","Exported",50
+"415",2020,"II","Nepenthes burbidgeae","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"416",2020,"II","Nepenthes burbidgeae","Not applied","US","LK","live","Not applied","T","A","Exported",170
+"417",2020,"II","Nepenthes burkei","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"418",2020,"II","Nepenthes burkei","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"419",2020,"II","Nepenthes burkei","Not applied","HK","LK","live","Not applied","T","A","Exported",320
+"420",2020,"II","Nepenthes burkei","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"421",2020,"II","Nepenthes burkei","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"422",2020,"II","Nepenthes burkei","Not applied","US","LK","live","Not applied","T","A","Exported",380
+"423",2020,"II","Nepenthes campanulata","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"424",2020,"II","Nepenthes campanulata","Not applied","HK","LK","live","Not applied","T","A","Exported",240
+"425",2020,"II","Nepenthes campanulata","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"426",2020,"II","Nepenthes campanulata","Not applied","US","LK","live","Not applied","T","A","Exported",530
+"427",2020,"II","Nepenthes chang","Not applied","HK","LK","live","Not applied","T","A","Exported",50
+"428",2020,"II","Nepenthes cincta","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"429",2020,"II","Nepenthes copelandii","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"430",2020,"II","Nepenthes copelandii","Not applied","HK","LK","live","Not applied","T","A","Exported",70
+"431",2020,"II","Nepenthes copelandii","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"432",2020,"II","Nepenthes copelandii","Not applied","US","LK","live","Not applied","T","A","Exported",120
+"433",2020,"II","Nepenthes densiflora","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"434",2020,"II","Nepenthes densiflora","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"435",2020,"II","Nepenthes densiflora","Not applied","HK","LK","live","Not applied","T","A","Exported",220
+"436",2020,"II","Nepenthes densiflora","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"437",2020,"II","Nepenthes densiflora","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"438",2020,"II","Nepenthes densiflora","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"439",2020,"II","Nepenthes densiflora","Not applied","US","LK","live","Not applied","T","A","Exported",310
+"440",2020,"II","Nepenthes diatas","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"441",2020,"II","Nepenthes diatas","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"442",2020,"II","Nepenthes diatas","Not applied","HK","LK","live","Not applied","T","A","Exported",620
+"443",2020,"II","Nepenthes diatas","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"444",2020,"II","Nepenthes diatas","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"445",2020,"II","Nepenthes diatas","Not applied","US","LK","live","Not applied","T","A","Exported",360
+"446",2020,"II","Nepenthes dubia","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"447",2020,"II","Nepenthes eymae","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"448",2020,"II","Nepenthes eymae","Not applied","GB","LK","live","Not applied","T","A","Exported",4000
+"449",2020,"II","Nepenthes eymae","Not applied","HK","LK","live","Not applied","T","A","Exported",730
+"450",2020,"II","Nepenthes eymae","Not applied","JP","LK","live","Not applied","T","A","Exported",300
+"451",2020,"II","Nepenthes eymae","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"452",2020,"II","Nepenthes eymae","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"453",2020,"II","Nepenthes eymae","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"454",2020,"II","Nepenthes eymae","Not applied","US","LK","live","Not applied","T","A","Exported",550
+"455",2020,"II","Nepenthes flava","Not applied","CA","LK","live","Not applied","T","A","Exported",100
+"456",2020,"II","Nepenthes flava","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"457",2020,"II","Nepenthes flava","Not applied","HK","LK","live","Not applied","T","A","Exported",390
+"458",2020,"II","Nepenthes flava","Not applied","JP","LK","live","Not applied","T","A","Exported",410
+"459",2020,"II","Nepenthes flava","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"460",2020,"II","Nepenthes flava","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"461",2020,"II","Nepenthes flava","Not applied","US","LK","live","Not applied","T","A","Exported",320
+"462",2020,"II","Nepenthes fusca","Not applied","CA","LK","live","Not applied","T","A","Exported",260
+"463",2020,"II","Nepenthes fusca","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"464",2020,"II","Nepenthes fusca","Not applied","HK","LK","live","Not applied","T","A","Exported",700
+"465",2020,"II","Nepenthes fusca","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"466",2020,"II","Nepenthes fusca","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"467",2020,"II","Nepenthes fusca","Not applied","SG","LK","live","Not applied","T","A","Exported",150
+"468",2020,"II","Nepenthes fusca","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"469",2020,"II","Nepenthes fusca","Not applied","US","LK","live","Not applied","T","A","Exported",570
+"470",2020,"II","Nepenthes glabrata","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"471",2020,"II","Nepenthes gracilis","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"472",2020,"II","Nepenthes gymnamphora","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"473",2020,"II","Nepenthes gymnamphora","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"474",2020,"II","Nepenthes gymnamphora","Not applied","HK","LK","live","Not applied","T","A","Exported",410
+"475",2020,"II","Nepenthes gymnamphora","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"476",2020,"II","Nepenthes gymnamphora","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"477",2020,"II","Nepenthes gymnamphora","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"478",2020,"II","Nepenthes gymnamphora","Not applied","US","LK","live","Not applied","T","A","Exported",190
+"479",2020,"II","Nepenthes hamata","Not applied","CA","LK","live","Not applied","T","A","Exported",190
+"480",2020,"II","Nepenthes hamata","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"481",2020,"II","Nepenthes hamata","Not applied","HK","LK","live","Not applied","T","A","Exported",270
+"482",2020,"II","Nepenthes hamata","Not applied","JP","LK","live","Not applied","T","A","Exported",740
+"483",2020,"II","Nepenthes hamata","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"484",2020,"II","Nepenthes hamata","Not applied","SG","LK","live","Not applied","T","A","Exported",100
+"485",2020,"II","Nepenthes hamata","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"486",2020,"II","Nepenthes hamata","Not applied","US","LK","live","Not applied","T","A","Exported",1310
+"487",2020,"II","Nepenthes harryana","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"488",2020,"II","Nepenthes hirsuta","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"489",2020,"II","Nepenthes hybrid","Not applied","CA","LK","live","Not applied","T","A","Exported",6670
+"490",2020,"II","Nepenthes hybrid","Not applied","GB","LK","live","Not applied","T","A","Exported",194000
+"491",2020,"II","Nepenthes hybrid","Not applied","HK","LK","live","Not applied","T","A","Exported",36590
+"492",2020,"II","Nepenthes hybrid","Not applied","JP","LK","live","Not applied","T","A","Exported",12320
+"493",2020,"II","Nepenthes hybrid","Not applied","JP","LK","live","Not applied","T","D","Exported",50
+"494",2020,"II","Nepenthes hybrid","Not applied","KR","LK","live","Not applied","T","A","Exported",690
+"495",2020,"II","Nepenthes hybrid","Not applied","MY","LK","live","Not applied","T","A","Exported",730
+"496",2020,"II","Nepenthes hybrid","Not applied","SG","LK","live","Not applied","T","A","Exported",4660
+"497",2020,"II","Nepenthes hybrid","Not applied","TH","LK","live","Not applied","T","A","Exported",4060
+"498",2020,"II","Nepenthes hybrid","Not applied","TW","LK","live","Not applied","T","A","Exported",750
+"499",2020,"II","Nepenthes hybrid","Not applied","US","LK","live","Not applied","T","A","Exported",47350
+"500",2020,"II","Nepenthes insignis","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"501",2020,"II","Nepenthes jacquelineae","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"502",2020,"II","Nepenthes jacquelineae","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"503",2020,"II","Nepenthes jacquelineae","Not applied","HK","LK","live","Not applied","T","A","Exported",1050
+"504",2020,"II","Nepenthes jacquelineae","Not applied","JP","LK","live","Not applied","T","A","Exported",510
+"505",2020,"II","Nepenthes jacquelineae","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"506",2020,"II","Nepenthes jacquelineae","Not applied","SG","LK","live","Not applied","T","A","Exported",100
+"507",2020,"II","Nepenthes jacquelineae","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"508",2020,"II","Nepenthes jacquelineae","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"509",2020,"II","Nepenthes jacquelineae","Not applied","US","LK","live","Not applied","T","A","Exported",1050
+"510",2020,"II","Nepenthes jamban","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"511",2020,"II","Nepenthes jamban","Not applied","HK","LK","live","Not applied","T","A","Exported",780
+"512",2020,"II","Nepenthes jamban","Not applied","JP","LK","live","Not applied","T","A","Exported",400
+"513",2020,"II","Nepenthes jamban","Not applied","SG","LK","live","Not applied","T","A","Exported",70
+"514",2020,"II","Nepenthes jamban","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"515",2020,"II","Nepenthes jamban","Not applied","US","LK","live","Not applied","T","A","Exported",480
+"516",2020,"II","Nepenthes klossii","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"517",2020,"II","Nepenthes klossii","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"518",2020,"II","Nepenthes klossii","Not applied","HK","LK","live","Not applied","T","A","Exported",600
+"519",2020,"II","Nepenthes klossii","Not applied","JP","LK","live","Not applied","T","A","Exported",390
+"520",2020,"II","Nepenthes klossii","Not applied","SG","LK","live","Not applied","T","A","Exported",100
+"521",2020,"II","Nepenthes klossii","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"522",2020,"II","Nepenthes klossii","Not applied","US","LK","live","Not applied","T","A","Exported",510
+"523",2020,"II","Nepenthes lamii","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"524",2020,"II","Nepenthes lamii","Not applied","HK","LK","live","Not applied","T","A","Exported",50
+"525",2020,"II","Nepenthes lamii","Not applied","US","LK","live","Not applied","T","A","Exported",50
+"526",2020,"II","Nepenthes longifolia","Not applied","CA","LK","live","Not applied","T","A","Exported",70
+"527",2020,"II","Nepenthes longifolia","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"528",2020,"II","Nepenthes longifolia","Not applied","HK","LK","live","Not applied","T","A","Exported",350
+"529",2020,"II","Nepenthes longifolia","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"530",2020,"II","Nepenthes longifolia","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"531",2020,"II","Nepenthes longifolia","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"532",2020,"II","Nepenthes longifolia","Not applied","US","LK","live","Not applied","T","A","Exported",430
+"533",2020,"II","Nepenthes lowii","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"534",2020,"II","Nepenthes lowii","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"535",2020,"II","Nepenthes lowii","Not applied","HK","LK","live","Not applied","T","A","Exported",190
+"536",2020,"II","Nepenthes lowii","Not applied","JP","LK","live","Not applied","T","A","Exported",190
+"537",2020,"II","Nepenthes lowii","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"538",2020,"II","Nepenthes lowii","Not applied","US","LK","live","Not applied","T","A","Exported",430
+"539",2020,"II","Nepenthes madagascariensis","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"540",2020,"II","Nepenthes madagascariensis","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"541",2020,"II","Nepenthes madagascariensis","Not applied","HK","LK","live","Not applied","T","A","Exported",70
+"542",2020,"II","Nepenthes madagascariensis","Not applied","JP","LK","live","Not applied","T","A","Exported",250
+"543",2020,"II","Nepenthes madagascariensis","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"544",2020,"II","Nepenthes madagascariensis","Not applied","US","LK","live","Not applied","T","A","Exported",430
+"545",2020,"II","Nepenthes maxima","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"546",2020,"II","Nepenthes maxima","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"547",2020,"II","Nepenthes maxima","Not applied","HK","LK","live","Not applied","T","A","Exported",270
+"548",2020,"II","Nepenthes maxima","Not applied","JP","LK","live","Not applied","T","A","Exported",120
+"549",2020,"II","Nepenthes maxima","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"550",2020,"II","Nepenthes maxima","Not applied","US","LK","live","Not applied","T","A","Exported",960
+"551",2020,"II","Nepenthes merrilliana","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"552",2020,"II","Nepenthes merrilliana","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"553",2020,"II","Nepenthes merrilliana","Not applied","HK","LK","live","Not applied","T","A","Exported",400
+"554",2020,"II","Nepenthes merrilliana","Not applied","JP","LK","live","Not applied","T","A","Exported",120
+"555",2020,"II","Nepenthes merrilliana","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"556",2020,"II","Nepenthes merrilliana","Not applied","US","LK","live","Not applied","T","A","Exported",610
+"557",2020,"II","Nepenthes mira","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"558",2020,"II","Nepenthes mira","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"559",2020,"II","Nepenthes mira","Not applied","HK","LK","live","Not applied","T","A","Exported",240
+"560",2020,"II","Nepenthes mira","Not applied","JP","LK","live","Not applied","T","A","Exported",300
+"561",2020,"II","Nepenthes mira","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"562",2020,"II","Nepenthes mira","Not applied","US","LK","live","Not applied","T","A","Exported",260
+"563",2020,"II","Nepenthes mirabilis","Not applied","CA","LK","live","Not applied","T","A","Exported",220
+"564",2020,"II","Nepenthes mirabilis","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"565",2020,"II","Nepenthes mirabilis","Not applied","HK","LK","live","Not applied","T","A","Exported",140
+"566",2020,"II","Nepenthes mirabilis","Not applied","JP","LK","live","Not applied","T","A","Exported",70
+"567",2020,"II","Nepenthes mirabilis","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"568",2020,"II","Nepenthes mirabilis","Not applied","US","LK","live","Not applied","T","A","Exported",370
+"569",2020,"II","Nepenthes northiana","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"570",2020,"II","Nepenthes northiana","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"571",2020,"II","Nepenthes northiana","Not applied","HK","LK","live","Not applied","T","A","Exported",410
+"572",2020,"II","Nepenthes northiana","Not applied","JP","LK","live","Not applied","T","A","Exported",290
+"573",2020,"II","Nepenthes northiana","Not applied","SG","LK","live","Not applied","T","A","Exported",150
+"574",2020,"II","Nepenthes northiana","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"575",2020,"II","Nepenthes northiana","Not applied","US","LK","live","Not applied","T","A","Exported",780
+"576",2020,"II","Nepenthes ovata","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"577",2020,"II","Nepenthes ovata","Not applied","HK","LK","live","Not applied","T","A","Exported",200
+"578",2020,"II","Nepenthes ovata","Not applied","US","LK","live","Not applied","T","A","Exported",70
+"579",2020,"II","Nepenthes pervillei","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"580",2020,"II","Nepenthes pervillei","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"581",2020,"II","Nepenthes pervillei","Not applied","HK","LK","live","Not applied","T","A","Exported",380
+"582",2020,"II","Nepenthes pervillei","Not applied","MY","LK","live","Not applied","T","A","Exported",70
+"583",2020,"II","Nepenthes pervillei","Not applied","SG","LK","live","Not applied","T","A","Exported",120
+"584",2020,"II","Nepenthes pervillei","Not applied","TH","LK","live","Not applied","T","A","Exported",100
+"585",2020,"II","Nepenthes pervillei","Not applied","US","LK","live","Not applied","T","A","Exported",360
+"586",2020,"II","Nepenthes petiolata","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"587",2020,"II","Nepenthes petiolata","Not applied","HK","LK","live","Not applied","T","A","Exported",430
+"588",2020,"II","Nepenthes petiolata","Not applied","JP","LK","live","Not applied","T","A","Exported",120
+"589",2020,"II","Nepenthes petiolata","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"590",2020,"II","Nepenthes petiolata","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"591",2020,"II","Nepenthes petiolata","Not applied","US","LK","live","Not applied","T","A","Exported",360
+"592",2020,"II","Nepenthes pyriformis","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"593",2020,"II","Nepenthes rafflesiana","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"594",2020,"II","Nepenthes rafflesiana","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"595",2020,"II","Nepenthes rafflesiana","Not applied","JP","LK","live","Not applied","T","A","Exported",140
+"596",2020,"II","Nepenthes rafflesiana","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"597",2020,"II","Nepenthes rafflesiana","Not applied","US","LK","live","Not applied","T","A","Exported",460
+"598",2020,"II","Nepenthes reinwardtiana","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"599",2020,"II","Nepenthes reinwardtiana","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"600",2020,"II","Nepenthes reinwardtiana","Not applied","HK","LK","live","Not applied","T","A","Exported",150
+"601",2020,"II","Nepenthes reinwardtiana","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"602",2020,"II","Nepenthes reinwardtiana","Not applied","US","LK","live","Not applied","T","A","Exported",290
+"603",2020,"II","Nepenthes sibuyanensis","Not applied","CA","LK","live","Not applied","T","A","Exported",70
+"604",2020,"II","Nepenthes sibuyanensis","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"605",2020,"II","Nepenthes sibuyanensis","Not applied","HK","LK","live","Not applied","T","A","Exported",680
+"606",2020,"II","Nepenthes sibuyanensis","Not applied","JP","LK","live","Not applied","T","A","Exported",200
+"607",2020,"II","Nepenthes sibuyanensis","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"608",2020,"II","Nepenthes sibuyanensis","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"609",2020,"II","Nepenthes sibuyanensis","Not applied","US","LK","live","Not applied","T","A","Exported",480
+"610",2020,"II","Nepenthes singalana","Not applied","CA","LK","live","Not applied","T","A","Exported",170
+"611",2020,"II","Nepenthes singalana","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"612",2020,"II","Nepenthes singalana","Not applied","HK","LK","live","Not applied","T","A","Exported",440
+"613",2020,"II","Nepenthes singalana","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"614",2020,"II","Nepenthes singalana","Not applied","MY","LK","live","Not applied","T","A","Exported",50
+"615",2020,"II","Nepenthes singalana","Not applied","NZ","LK","live","Not applied","T","A","Exported",3000
+"616",2020,"II","Nepenthes singalana","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"617",2020,"II","Nepenthes singalana","Not applied","US","LK","live","Not applied","T","A","Exported",430
+"618",2020,"II","Nepenthes spathulata","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"619",2020,"II","Nepenthes spathulata","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"620",2020,"II","Nepenthes spathulata","Not applied","HK","LK","live","Not applied","T","A","Exported",170
+"621",2020,"II","Nepenthes spathulata","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"622",2020,"II","Nepenthes spathulata","Not applied","NZ","LK","live","Not applied","T","A","Exported",3000
+"623",2020,"II","Nepenthes spathulata","Not applied","US","LK","live","Not applied","T","A","Exported",280
+"624",2020,"II","Nepenthes spectabilis","Not applied","CA","LK","live","Not applied","T","A","Exported",290
+"625",2020,"II","Nepenthes spectabilis","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"626",2020,"II","Nepenthes spectabilis","Not applied","HK","LK","live","Not applied","T","A","Exported",660
+"627",2020,"II","Nepenthes spectabilis","Not applied","JP","LK","live","Not applied","T","A","Exported",170
+"628",2020,"II","Nepenthes spectabilis","Not applied","SG","LK","live","Not applied","T","A","Exported",100
+"629",2020,"II","Nepenthes spectabilis","Not applied","TH","LK","live","Not applied","T","A","Exported",70
+"630",2020,"II","Nepenthes spectabilis","Not applied","US","LK","live","Not applied","T","A","Exported",1160
+"631",2020,"II","Nepenthes stenophylla","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"632",2020,"II","Nepenthes stenophylla","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"633",2020,"II","Nepenthes stenophylla","Not applied","HK","LK","live","Not applied","T","A","Exported",200
+"634",2020,"II","Nepenthes stenophylla","Not applied","KR","LK","live","Not applied","T","A","Exported",70
+"635",2020,"II","Nepenthes talangensis","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"636",2020,"II","Nepenthes talangensis","Not applied","HK","LK","live","Not applied","T","A","Exported",270
+"637",2020,"II","Nepenthes talangensis","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"638",2020,"II","Nepenthes tentaculata","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"639",2020,"II","Nepenthes tentaculata","Not applied","HK","LK","live","Not applied","T","A","Exported",480
+"640",2020,"II","Nepenthes tentaculata","Not applied","JP","LK","live","Not applied","T","A","Exported",120
+"641",2020,"II","Nepenthes tentaculata","Not applied","SG","LK","live","Not applied","T","A","Exported",50
+"642",2020,"II","Nepenthes tentaculata","Not applied","US","LK","live","Not applied","T","A","Exported",260
+"643",2020,"II","Nepenthes tomoriana","Not applied","CA","LK","live","Not applied","T","A","Exported",120
+"644",2020,"II","Nepenthes tomoriana","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"645",2020,"II","Nepenthes tomoriana","Not applied","HK","LK","live","Not applied","T","A","Exported",50
+"646",2020,"II","Nepenthes tomoriana","Not applied","JP","LK","live","Not applied","T","A","Exported",70
+"647",2020,"II","Nepenthes tomoriana","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"648",2020,"II","Nepenthes tomoriana","Not applied","US","LK","live","Not applied","T","A","Exported",170
+"649",2020,"II","Nepenthes treubiana","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"650",2020,"II","Nepenthes truncata","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"651",2020,"II","Nepenthes truncata","Not applied","GB","LK","live","Not applied","T","A","Exported",3000
+"652",2020,"II","Nepenthes truncata","Not applied","HK","LK","live","Not applied","T","A","Exported",190
+"653",2020,"II","Nepenthes truncata","Not applied","JP","LK","live","Not applied","T","A","Exported",100
+"654",2020,"II","Nepenthes truncata","Not applied","US","LK","live","Not applied","T","A","Exported",580
+"655",2020,"II","Nepenthes veitchii","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"656",2020,"II","Nepenthes veitchii","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"657",2020,"II","Nepenthes veitchii","Not applied","HK","LK","live","Not applied","T","A","Exported",670
+"658",2020,"II","Nepenthes veitchii","Not applied","JP","LK","live","Not applied","T","A","Exported",310
+"659",2020,"II","Nepenthes veitchii","Not applied","KR","LK","live","Not applied","T","A","Exported",50
+"660",2020,"II","Nepenthes veitchii","Not applied","SG","LK","live","Not applied","T","A","Exported",70
+"661",2020,"II","Nepenthes veitchii","Not applied","TW","LK","live","Not applied","T","A","Exported",50
+"662",2020,"II","Nepenthes veitchii","Not applied","US","LK","live","Not applied","T","A","Exported",950
+"663",2020,"II","Nepenthes ventricosa","Not applied","CA","LK","live","Not applied","T","A","Exported",290
+"664",2020,"II","Nepenthes ventricosa","Not applied","GB","LK","live","Not applied","T","A","Exported",2000
+"665",2020,"II","Nepenthes ventricosa","Not applied","HK","LK","live","Not applied","T","A","Exported",220
+"666",2020,"II","Nepenthes ventricosa","Not applied","JP","LK","live","Not applied","T","A","Exported",200
+"667",2020,"II","Nepenthes ventricosa","Not applied","NZ","LK","live","Not applied","T","A","Exported",3000
+"668",2020,"II","Nepenthes ventricosa","Not applied","TH","LK","live","Not applied","T","A","Exported",50
+"669",2020,"II","Nepenthes ventricosa","Not applied","US","LK","live","Not applied","T","A","Exported",410
+"670",2020,"II","Nepenthes vieillardii","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"671",2020,"II","Nepenthes villosa","Not applied","CA","LK","live","Not applied","T","A","Exported",50
+"672",2020,"II","Nepenthes villosa","Not applied","GB","LK","live","Not applied","T","A","Exported",1000
+"673",2020,"II","Nepenthes villosa","Not applied","HK","LK","live","Not applied","T","A","Exported",150
+"674",2020,"II","Nepenthes villosa","Not applied","JP","LK","live","Not applied","T","A","Exported",50
+"675",2020,"II","Nepenthes villosa","Not applied","US","LK","live","Not applied","T","A","Exported",830
+"676",2020,"II","Galaxea astreata","Anthozoa","LK","VN","live","Not applied","B","C","Imported",750
+"677",2020,"II","Anoectochilus roxburghii","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"678",2020,"II","Cycnoches cooperi","Not applied","MO","SG","cosmetics","ml","T","A","Imported",0.72
+"679",2020,"II","Cymbidium hybrid","Not applied","DK","LK","live","Not applied","T","A","Exported",700
+"680",2020,"II","Cymbidium hybrid","Not applied","JP","LK","live","Not applied","T","A","Exported",72
+"681",2020,"II","Dendrobium hybrid","Not applied","DK","LK","live","Not applied","T","A","Exported",100
+"682",2020,"II","Dendrobium hybrid","Not applied","MV","LK","live","Not applied","T","A","Exported",100
+"683",2020,"II","Dendrobium nobile","Not applied","MO","SG","cosmetics","ml","T","A","Imported",1.44
+"684",2020,"II","Epidendrum hybrid","Not applied","DK","LK","live","Not applied","T","A","Exported",8975
+"685",2020,"II","Gastrodia elata","Not applied","MO","SG","cosmetics","ml","T","A","Imported",78.465
+"686",2020,"II","Phalaenopsis amabilis","Not applied","MO","SG","cosmetics","ml","T","A","Imported",7
+"687",2020,"II","Thrixspermum centipeda","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"688",2020,"II","Vanda coerulea","Not applied","RS","HR","extract","ml","T","A","Imported",3.97235
+"689",2020,"II","Vanilla planifolia","Not applied","DE","LK","live","Not applied","T","A","Exported",1000
+"690",2020,"II","Phoenicopterus ruber","Aves","CN","ML","live","Not applied","Not applied","Not applied","Exported",200
+"691",2020,"II","Phoenicopterus ruber","Aves","ML","SY","unspecified","Not applied","Not applied","Not applied","Imported",200
+"692",2020,"II","Goniopora lobata","Anthozoa","LK","VN","live","Not applied","B","C","Imported",750
+"693",2020,"II","Goniopora stutchburyi","Anthozoa","LK","VN","live","Not applied","B","C","Imported",750
+"694",2020,"II","Agapornis fischeri","Aves","LK","CZ","live","Not applied","B","C","Imported",40
+"695",2020,"II","Agapornis personatus","Aves","MV","LK","live","Not applied","T","C","Exported",126
+"696",2020,"II","Agapornis personatus","Aves","SG","LK","live","Not applied","T","C","Exported",50
+"697",2020,"II","Agapornis pullarius","Aves","XV","ML","live","Not applied","Not applied","Not applied","Exported",80
+"698",2020,"II","Alisterus scapularis","Aves","LK","CZ","live","Not applied","B","C","Imported",16
+"699",2020,"II","Amazona aestiva","Aves","LK","QA","live","Not applied","B","C","Imported",4
+"700",2020,"II","Amazona albifrons","Aves","LK","QA","live","Not applied","B","C","Imported",4
+"701",2020,"II","Amazona amazonica","Aves","CA","TT","live","Not applied","P","U","Exported",1
+"702",2020,"II","Amazona amazonica","Aves","PH","TT","live","Not applied","P","W","Exported",1
+"703",2020,"II","Amazona ochrocephala","Aves","CA","TT","live","Not applied","P","U","Exported",1
+"704",2020,"II","Amazona ochrocephala","Aves","RU","BY","live","Not applied","P","C","Exported",1
+"705",2020,"II","Amazona xantholora","Aves","LK","QA","live","Not applied","B","C","Imported",4
+"706",2020,"II","Ara ararauna","Aves","LK","PH","live","Not applied","B","C","Imported",6
+"707",2020,"II","Ara ararauna","Aves","UA","MD","live","Not applied","Q","C","Exported",1
+"708",2020,"II","Ara chloropterus","Aves","LK","PH","live","Not applied","B","C","Imported",6
+"709",2020,"II","Ara chloropterus","Aves","UA","MD","live","Not applied","Q","C","Exported",1
+"710",2020,"II","Ara hybrid","Aves","LK","CZ","live","Not applied","B","C","Imported",25
+"711",2020,"II","Ara severus","Aves","MV","LK","live","Not applied","T","C","Exported",1
+"712",2020,"II","Aratinga solstitialis","Aves","LK","KW","live","Not applied","B","C","Imported",17
+"713",2020,"II","Aratinga solstitialis","Aves","MV","LK","live","Not applied","T","C","Exported",20
+"714",2020,"II","Aratinga solstitialis","Aves","SG","LK","live","Not applied","T","C","Exported",10
+"715",2020,"II","Aratinga solstitialis","Aves","TT","BB","live","Not applied","T","C","Imported",16
+"716",2020,"II","Barnardius zonarius","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"717",2020,"II","Cyanoliseus patagonus","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"718",2020,"II","Eclectus roratus","Aves","MV","LK","live","Not applied","T","C","Exported",47
+"719",2020,"II","Eclectus roratus","Aves","SG","LK","live","Not applied","T","C","Exported",6
+"720",2020,"II","Lathamus discolor","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"721",2020,"II","Myiopsitta monachus","Aves","LK","CZ","live","Not applied","B","C","Imported",130
+"722",2020,"II","Myiopsitta monachus","Aves","LK","QA","live","Not applied","B","C","Imported",6
+"723",2020,"II","Myiopsitta monachus","Aves","MV","LK","live","Not applied","T","C","Exported",20
+"724",2020,"II","Myiopsitta monachus","Aves","SG","LK","live","Not applied","T","C","Exported",10
+"725",2020,"II","Nandayus nenday","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"726",2020,"II","Neophema pulchella","Aves","LK","CZ","live","Not applied","B","C","Imported",60
+"727",2020,"II","Neophema splendida","Aves","LK","CZ","live","Not applied","B","C","Imported",60
+"728",2020,"II","Neopsephotus bourkii","Aves","LK","CZ","live","Not applied","B","C","Imported",60
+"729",2020,"II","Pionites leucogaster","Aves","LK","CZ","live","Not applied","B","C","Imported",46
+"730",2020,"II","Pionites leucogaster","Aves","LK","SG","live","Not applied","B","C","Imported",2
+"731",2020,"II","Platycercus elegans","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"732",2020,"II","Platycercus eximius","Aves","LK","CZ","live","Not applied","B","C","Imported",57
+"733",2020,"II","Poicephalus gulielmi","Aves","LK","QA","live","Not applied","B","C","Imported",8
+"734",2020,"II","Poicephalus gulielmi","Aves","SG","CD","live","Not applied","T","W","Exported",70
+"735",2020,"II","Poicephalus meyeri","Aves","SG","CD","live","Not applied","T","W","Exported",156
+"736",2020,"II","Poicephalus senegalus","Aves","BD","ML","live","Not applied","Not applied","Not applied","Exported",200
+"737",2020,"II","Poicephalus senegalus","Aves","JO","ML","live","Not applied","Not applied","Not applied","Exported",100
+"738",2020,"II","Poicephalus senegalus","Aves","KW","ML","live","Not applied","Not applied","Not applied","Exported",400
+"739",2020,"II","Poicephalus senegalus","Aves","LY","ML","live","Not applied","Not applied","Not applied","Exported",170
+"740",2020,"II","Poicephalus senegalus","Aves","OM","ML","live","Not applied","Not applied","Not applied","Exported",500
+"741",2020,"II","Poicephalus senegalus","Aves","RU","ML","live","Not applied","Not applied","Not applied","Exported",50
+"742",2020,"II","Poicephalus senegalus","Aves","SA","ML","live","Not applied","Not applied","Not applied","Exported",200
+"743",2020,"II","Poicephalus senegalus","Aves","UZ","ML","live","Not applied","Not applied","Not applied","Exported",100
+"744",2020,"II","Polytelis alexandrae","Aves","LK","CZ","live","Not applied","B","C","Imported",60
+"745",2020,"II","Psephotus haematonotus","Aves","LK","CZ","live","Not applied","B","C","Imported",40
+"746",2020,"II","Psephotus varius","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"747",2020,"II","Psittacula alexandri","Aves","TT","BB","live","Not applied","T","C","Imported",4
+"748",2020,"II","Psittacula eupatria","Aves","UA","MD","live","Not applied","Q","C","Exported",3
+"749",2020,"II","Purpureicephalus spurius","Aves","LK","CZ","live","Not applied","B","C","Imported",20
+"750",2020,"II","Pyrrhura molinae","Aves","LK","KW","live","Not applied","B","C","Imported",14
+"751",2020,"II","Pteropus giganteus","Mammalia","DE","LK","hair","Not applied","S","W","Exported",2
+"752",2020,"II","Morelia spilota","Reptilia","RU","BY","live","Not applied","B","C","Exported",1
+"753",2020,"II","Morelia viridis","Reptilia","KZ","BY","live","Not applied","B","C","Exported",4
+"754",2020,"II","Python bivittatus","Reptilia","AZ","BY","live","Not applied","Z","C","Exported",2
+"755",2020,"II","Python bivittatus","Reptilia","LB","BY","live","Not applied","T","C","Exported",76
+"756",2020,"II","Python bivittatus","Reptilia","MO","IT","leather products (small)","Not applied","T","C","Imported",2
+"757",2020,"II","Python bivittatus","Reptilia","RU","BY","live","Not applied","T","C","Exported",18
+"758",2020,"II","Python bivittatus","Reptilia","US","CO","leather products (small)","Not applied","T","C","Exported",74
+"759",2020,"II","Python brongersmai","Reptilia","RU","BY","live","Not applied","B","C","Exported",2
+"760",2020,"II","Python regius","Reptilia","LB","BY","live","Not applied","T","C","Exported",4
+"761",2020,"II","Python reticulatus","Reptilia","JP","CO","leather products (small)","Not applied","T","C","Exported",2
+"762",2020,"II","Python reticulatus","Reptilia","MO","IT","leather products (small)","Not applied","T","C","Imported",2
+"763",2020,"II","Python reticulatus","Reptilia","RS","DE","leather products (small)","Not applied","T","W","Imported",1
+"764",2020,"II","Python reticulatus","Reptilia","US","CO","leather products (small)","Not applied","T","C","Exported",60
+"765",2020,"II","Python sebae","Reptilia","ES","CM","trophies","Not applied","H","W","Exported",1
+"766",2020,"II","Python sebae","Reptilia","FR","CM","skins","Not applied","H","W","Exported",1
+"767",2020,"II","Python sebae","Reptilia","FR","ML","skins","Not applied","Not applied","Not applied","Exported",600
+"768",2020,"II","Python sebae","Reptilia","RU","CM","trophies","Not applied","H","W","Exported",1
+"769",2020,"II","Python sebae","Reptilia","US","CM","skins","Not applied","H","W","Exported",2
+"770",2020,"II","Python sebae","Reptilia","US","CM","trophies","Not applied","H","W","Exported",6
+"771",2020,"II","Ramphastos toco","Aves","LK","PH","live","Not applied","B","C","Imported",2
+"772",2020,"II","Ramphastos tucanus","Aves","LK","SG","live","Not applied","B","C","Imported",6
+"773",2020,"II","Ramphastos vitellinus","Aves","LK","PH","live","Not applied","B","C","Imported",2
+"774",2020,"II","Ramphastos vitellinus","Aves","LK","SG","live","Not applied","B","C","Imported",4
+"775",2020,"II","Rhincodon typus","Elasmobranchii","IT","CV","specimens","Not applied","S","W","Exported",1
+"776",2020,"II","Rhina ancylostoma","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",600
+"777",2020,"II","Rhynchobatus spp.","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",185.35
+"778",2020,"II","Rhynchobatus spp.","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",1600
+"779",2020,"II","Rhynchobatus djiddensis","Elasmobranchii","HK","LK","bodies","kg","T","W","Exported",200
+"780",2020,"II","Prunus africana","Not applied","BA","RS","extract","kg","T","W","Exported",3.54
+"781",2020,"II","Prunus africana","Not applied","ES","CD","bark","kg","T","W","Exported",102000
+"782",2020,"II","Pandinus dictator","Arachnida","CA","CM","live","Not applied","T","W","Exported",20
+"783",2020,"II","Pandinus dictator","Arachnida","ES","CM","live","Not applied","T","W","Exported",200
+"784",2020,"II","Pandinus dictator","Arachnida","JP","CM","live","Not applied","T","W","Exported",30
+"785",2020,"II","Pandinus dictator","Arachnida","US","CM","live","Not applied","T","W","Exported",150
+"786",2020,"II","Pandinus imperator","Arachnida","US","CD","live","Not applied","T","W","Exported",13000
+"787",2020,"II","Sphyrna lewini","Elasmobranchii","GB","TT","fins","cm3","S","W","Exported",4
+"788",2020,"II","Sphyrna lewini","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",1302
+"789",2020,"II","Sphyrna lewini","Elasmobranchii","IT","CV","specimens","Not applied","S","W","Exported",13
+"790",2020,"II","Sphyrna lewini","Elasmobranchii","SG","LK","fins","kg","T","W","Exported",1200
+"791",2020,"II","Sphyrna lewini","Elasmobranchii","US","CV","specimens","Not applied","S","W","Exported",13
+"792",2020,"II","Sphyrna mokarran","Elasmobranchii","GB","TT","fins","cm3","S","W","Exported",2
+"793",2020,"II","Sphyrna zygaena","Elasmobranchii","HK","LK","fins","kg","T","W","Exported",64.6
+"794",2020,"II","Ptilopsis leucotis","Aves","KW","ML","live","Not applied","Not applied","Not applied","Exported",60
+"795",2020,"II","Strombus gigas","Gastropoda","TW","TT","meat","kg","T","X","Exported",9.07
+"796",2020,"II","Hippocampus comes","Actinopteri","AE","LK","live","Not applied","T","C","Exported",10
+"797",2020,"II","Hippocampus comes","Actinopteri","BD","LK","live","Not applied","T","C","Exported",50
+"798",2020,"II","Hippocampus comes","Actinopteri","CA","LK","live","Not applied","T","C","Exported",60
+"799",2020,"II","Hippocampus comes","Actinopteri","GB","LK","live","Not applied","T","C","Exported",1200
+"800",2020,"II","Hippocampus comes","Actinopteri","JO","LK","live","Not applied","T","C","Exported",200
+"801",2020,"II","Hippocampus comes","Actinopteri","JP","LK","live","Not applied","T","C","Exported",200
+"802",2020,"II","Hippocampus comes","Actinopteri","KW","LK","live","Not applied","T","C","Exported",220
+"803",2020,"II","Hippocampus comes","Actinopteri","NZ","LK","live","Not applied","T","C","Exported",20
+"804",2020,"II","Hippocampus comes","Actinopteri","RU","LK","live","Not applied","T","C","Exported",60
+"805",2020,"II","Hippocampus reidi","Actinopteri","AE","LK","live","Not applied","T","C","Exported",50
+"806",2020,"II","Hippocampus reidi","Actinopteri","BD","LK","live","Not applied","T","C","Exported",90
+"807",2020,"II","Hippocampus reidi","Actinopteri","DE","LK","live","Not applied","T","C","Exported",150
+"808",2020,"II","Hippocampus reidi","Actinopteri","FR","LK","live","Not applied","T","C","Exported",150
+"809",2020,"II","Hippocampus reidi","Actinopteri","GB","LK","live","Not applied","T","C","Exported",1200
+"810",2020,"II","Hippocampus reidi","Actinopteri","JO","LK","live","Not applied","T","C","Exported",200
+"811",2020,"II","Hippocampus reidi","Actinopteri","JP","LK","live","Not applied","T","C","Exported",450
+"812",2020,"II","Hippocampus reidi","Actinopteri","KR","LK","live","Not applied","T","C","Exported",200
+"813",2020,"II","Hippocampus reidi","Actinopteri","KW","LK","live","Not applied","T","C","Exported",220
+"814",2020,"II","Hippocampus reidi","Actinopteri","NL","LK","live","Not applied","T","C","Exported",500
+"815",2020,"II","Hippocampus reidi","Actinopteri","NZ","LK","live","Not applied","T","C","Exported",60
+"816",2020,"II","Hippocampus reidi","Actinopteri","PL","LK","live","Not applied","T","C","Exported",240
+"817",2020,"II","Hippocampus reidi","Actinopteri","RU","LK","live","Not applied","T","C","Exported",100
+"818",2020,"II","Centrochelys sulcata","Reptilia","HK","ML","live","Not applied","Not applied","Not applied","Exported",230
+"819",2020,"II","Centrochelys sulcata","Reptilia","ID","ML","live","Not applied","Not applied","Not applied","Exported",500
+"820",2020,"II","Centrochelys sulcata","Reptilia","TG","ML","live","Not applied","Not applied","Not applied","Exported",2420
+"821",2020,"II","Centrochelys sulcata","Reptilia","TW","ML","live","Not applied","Not applied","Not applied","Exported",550
+"822",2020,"II","Chelonoidis carbonarius","Reptilia","TH","CO","live","Not applied","T","C","Exported",200
+"823",2020,"II","Stigmochelys pardalis","Reptilia","CN","ET","live","Not applied","T","W","Exported",80
+"824",2020,"II","Testudo horsfieldii","Reptilia","IT","UZ","live","Not applied","T","W","Exported",500
+"825",2020,"II","Eudocimus ruber","Aves","ML","BE","unspecified","Not applied","Not applied","Not applied","Imported",130
+"826",2020,"II","Aquilaria crassna","Not applied","AE","LA","oil","l","T","A","Exported",5
+"827",2020,"II","Aquilaria crassna","Not applied","AE","LK","oil","ml","T","A","Exported",70
+"828",2020,"II","Aquilaria crassna","Not applied","CN","LA","chips","kg","T","A","Exported",15
+"829",2020,"II","Aquilaria crassna","Not applied","CN","LA","powder","kg","T","A","Exported",500
+"830",2020,"II","Aquilaria crassna","Not applied","DE","LK","oil","ml","T","A","Exported",4
+"831",2020,"II","Aquilaria crassna","Not applied","FR","LA","oil","g","T","A","Exported",100
+"832",2020,"II","Aquilaria crassna","Not applied","FR","LA","oil","l","T","A","Exported",29
+"833",2020,"II","Aquilaria crassna","Not applied","JP","LK","oil","ml","T","A","Exported",1
+"834",2020,"II","Aquilaria crassna","Not applied","KR","LA","chips","kg","T","A","Exported",52
+"835",2020,"II","Aquilaria crassna","Not applied","KR","LA","oil","g","T","A","Exported",500
+"836",2020,"II","Aquilaria crassna","Not applied","KW","LA","chips","kg","T","A","Exported",40
+"837",2020,"II","Aquilaria crassna","Not applied","MY","LA","powder","kg","T","A","Exported",200
+"838",2020,"II","Aquilaria crassna","Not applied","QA","LK","oil","ml","T","A","Exported",2
+"839",2020,"II","Aquilaria crassna","Not applied","SA","LK","oil","ml","T","A","Exported",11.4
+"840",2020,"II","Aquilaria crassna","Not applied","SU","LA","chips","kg","T","A","Exported",1724
+"841",2020,"II","Aquilaria crassna","Not applied","TH","LA","chips","kg","T","A","Exported",469.7
+"842",2020,"II","Aquilaria crassna","Not applied","TH","LA","oil","l","T","A","Exported",5
+"843",2020,"II","Aquilaria crassna","Not applied","TW","LA","powder","kg","T","A","Exported",15103
+"844",2020,"II","Aquilaria sinensis","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"845",2020,"II","Gyrinops walla","Not applied","AE","LK","chips","kg","T","A","Exported",57.06
+"846",2020,"II","Gyrinops walla","Not applied","AE","LK","chips","kg","T","I","Exported",66.93
+"847",2020,"II","Gyrinops walla","Not applied","IN","LK","chips","g","T","I","Exported",500
+"848",2020,"II","Gyrinops walla","Not applied","IN","LK","oil","g","T","I","Exported",642
+"849",2020,"II","Gyrinops walla","Not applied","KW","LK","chips","kg","T","I","Exported",56.55
+"850",2020,"II","Gyrinops walla","Not applied","QA","LK","chips","kg","T","I","Exported",4.33
+"851",2020,"II","Gyrinops walla","Not applied","SA","LK","chips","kg","T","I","Exported",67.99
+"852",2020,"II","Trachyphyllia geoffroyi","Anthozoa","LK","VN","live","Not applied","T","C","Imported",10
+"853",2020,"II","Anthocephala floriceps","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"854",2020,"II","Chalcostigma heteropogon","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"855",2020,"II","Eriocnemis cupreoventris","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"856",2020,"II","Lepidopyga goudoti","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"857",2020,"II","Leucippus fallax","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"858",2020,"II","Oxypogon guerinii","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"859",2020,"II","Sternoclyta cyanopectus","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"860",2020,"II","Urochroa bougueri","Aves","US","CO","specimens","ml","S","W","Exported",0.5
+"861",2020,"II","Ursus arctos","Mammalia","FI","RU","trophies","Not applied","H","W","Imported",2
+"862",2020,"II","Ursus arctos","Mammalia","MD","RU","trophies","Not applied","H","W","Imported",1
+"863",2020,"II","Ursus arctos","Mammalia","UA","BY","live","Not applied","Q","C","Exported",3
+"864",2020,"II","Ursus arctos isabellinus","Mammalia","JO","PK","live","Not applied","Z","C","Exported",2
+"865",2020,"II","Varanus acanthurus","Reptilia","RU","BY","live","Not applied","B","C","Exported",1
+"866",2020,"II","Varanus albigularis","Reptilia","US","CD","live","Not applied","T","W","Exported",1000
+"867",2020,"II","Varanus beccarii","Reptilia","RU","BY","live","Not applied","Q","C","Exported",2
+"868",2020,"II","Varanus niloticus","Reptilia","FR","MG","leather products (small)","Not applied","T","W","Exported",147
+"869",2020,"II","Varanus niloticus","Reptilia","FR","ML","skins","Not applied","Not applied","Not applied","Exported",13250
+"870",2020,"II","Varanus niloticus","Reptilia","MO","FR","leather products (small)","Not applied","T","W","Imported",4
+"871",2020,"II","Varanus niloticus","Reptilia","MO","FR","leather products (small)","Not applied","T","W","Imported",2
+"872",2020,"II","Varanus niloticus","Reptilia","US","CM","live","Not applied","T","W","Exported",10
+"873",2020,"II","Varanus niloticus","Reptilia","US","CO","leather products (small)","Not applied","T","W","Exported",10
+"874",2020,"II","Varanus salvator","Reptilia","FR","MG","leather products (small)","Not applied","T","W","Exported",59
+"875",2020,"II","Varanus salvator","Reptilia","GB","CO","leather products (small)","Not applied","T","W","Exported",8
+"876",2020,"II","Varanus salvator","Reptilia","MG","FR","skin pieces","Not applied","T","W","Imported",100
+"877",2020,"II","Varanus salvator","Reptilia","MG","FR","leather products (small)","Not applied","T","W","Imported",60
+"878",2020,"II","Varanus salvator","Reptilia","MG","FR","skins","Not applied","T","W","Imported",60
+"879",2020,"II","Varanus salvator","Reptilia","MO","FR","leather products (small)","Not applied","T","W","Imported",6
+"880",2020,"II","Varanus salvator","Reptilia","US","CO","leather products (small)","Not applied","T","W","Exported",131
+"881",2020,"II","Cyphostemma laza","Not applied","TW","MG","live","Not applied","T","A","Exported",5
+"882",2020,"II","Cyphostemma montagnacii","Not applied","TW","MG","live","Not applied","T","A","Exported",5
+"883",2020,"III","Capra hircus aegagrus","Mammalia","CA","PK","trophies","Not applied","H","W","Exported",1
+"884",2020,"III","Capra hircus aegagrus","Mammalia","DE","PK","trophies","Not applied","H","W","Exported",1
+"885",2020,"III","Capra hircus aegagrus","Mammalia","ES","PK","trophies","Not applied","H","W","Exported",1
+"886",2020,"III","Capra hircus aegagrus","Mammalia","SE","PK","trophies","Not applied","H","W","Exported",2
+"887",2020,"III","Capra hircus aegagrus","Mammalia","US","PK","trophies","Not applied","H","W","Exported",3
+"888",2020,"III","Capra sibirica","Mammalia","CA","PK","trophies","Not applied","H","W","Exported",1
+"889",2020,"III","Capra sibirica","Mammalia","CH","PK","trophies","Not applied","H","W","Exported",1
+"890",2020,"III","Capra sibirica","Mammalia","DE","PK","trophies","Not applied","H","W","Exported",4
+"891",2020,"III","Capra sibirica","Mammalia","IT","PK","trophies","Not applied","H","W","Exported",2
+"892",2020,"III","Capra sibirica","Mammalia","KZ","PK","trophies","Not applied","H","W","Exported",1
+"893",2020,"III","Capra sibirica","Mammalia","MD","RU","live","Not applied","Z","C","Imported",1
+"894",2020,"III","Capra sibirica","Mammalia","RU","PK","trophies","Not applied","H","W","Exported",2
+"895",2020,"III","Capra sibirica","Mammalia","US","PK","trophies","Not applied","H","W","Exported",4
+"896",2020,"III","Pseudois nayaur","Mammalia","ES","PK","trophies","Not applied","H","W","Exported",1
+"897",2020,"III","Gnetum spp.","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"898",2020,"III","Gnetum montanum","Not applied","CN","LA","leaves","Not applied","S","W","Exported",31
+"899",2020,"III","Martes flavigula","Mammalia","MD","RU","live","Not applied","Z","C","Imported",1
+"900",2020,"III","Mustela sibirica","Mammalia","US","LK","hair","g","T","W","Exported",38.214
+"901",2020,"III","Pavo cristatus","Aves","US","PK","trophies","Not applied","T","C","Exported",50
+"902",2020,"III","Potamotrygon magdalenae","Elasmobranchii","MX","CO","live","Not applied","T","W","Exported",120
+"903",2020,"III","Potamotrygon motoro","Elasmobranchii","CA","CO","live","Not applied","T","W","Exported",12
+"904",2020,"III","Potamotrygon motoro","Elasmobranchii","IL","CO","live","Not applied","T","W","Exported",4
+"905",2020,"III","Potamotrygon motoro","Elasmobranchii","MX","CO","live","Not applied","T","W","Exported",4
+"906",2020,"III","Potamotrygon orbignyi","Elasmobranchii","MX","CO","live","Not applied","T","W","Exported",4
+"907",2020,"III","Potamotrygon schroederi","Elasmobranchii","CN","CO","live","Not applied","T","W","Exported",60
+"908",2020,"III","Daboia russelii","Reptilia","RU","LK","live","Not applied","T","C","Exported",4
+"909",2020,"III","Civettictis civetta","Mammalia","ES","CM","trophies","Not applied","H","W","Exported",1
+"910",2020,"III","Civettictis civetta","Mammalia","FR","ET","musk","kg","T","R","Exported",90.1
+"911",2020,"III","Civettictis civetta","Mammalia","KR","ET","musk","kg","T","R","Exported",670
+"912",2020,"III","Civettictis civetta","Mammalia","RU","CM","trophies","Not applied","H","W","Exported",2
+"913",2021,"II","Varanus niloticus","Reptilia","FR","MG","leather products (small)","Not applied","T","W","Exported",53

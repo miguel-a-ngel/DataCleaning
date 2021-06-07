@@ -129,7 +129,10 @@ for (i in 1:nrow(cites)) {
 }
 ```
 
-
+```{r}
+#Guardamos el dataset transformado
+write.csv(cites, "cites_2021_limpio.csv")
+```
 
 # Análisis
 
