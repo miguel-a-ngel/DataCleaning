@@ -19,7 +19,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 print(getwd())
 library(car)
-
+library(dplyr)
+library(carData)
 ```
 
 
@@ -168,5 +169,10 @@ chisq.test(table2)
 table2 <- table(cites$Importer, cites$Exportation.number)
 chisq.test(table2)
 ```
+```{r}
+model <- lm(cites$Exportation.number ~ cites$Exportation.type)
+summary(model)
+```
+
 
 
