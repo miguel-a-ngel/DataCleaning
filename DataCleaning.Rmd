@@ -175,4 +175,12 @@ summary(model)
 ```
 
 
+```{r}
+model <- lm(cites$Exportation.number ~ cites$Term)
+summary(model)
+```
 
+```{r}
+model <- lm(cites$Exportation.number ~ cites$Term + cites$Purpose)
+anova(model)
+```
