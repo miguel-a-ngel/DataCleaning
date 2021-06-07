@@ -21,6 +21,7 @@ print(getwd())
 library(car)
 library(dplyr)
 library(carData)
+library(ggplot2)
 ```
 
 
@@ -186,4 +187,27 @@ summary(model)
 ```{r}
 model <- lm(cites$Exportation.number ~ cites$Term + cites$Purpose)
 anova(model)
+```
+
+# Visualización
+
+```{r}
+#Clases exportados e importados
+ggplot(data=cites,aes(x=Class, fill=Exportation.type)) + geom_bar() + xlab("Animales por clase exportadas e importadas") + labs(fill = "Exportation.type")
+
+#Cantidad de especimen exportado por paises
+ggplot(data=subset(cites, Exportation.type == "Exported"),aes(x=Importer, fill=Importer)) + geom_bar(binwidth=1.0) + xlab("Paises Exportadores")
+
+#Paises/importaciones_de_piel
+ggplot(data=subset(cites, Term == "skins" | Term == "skin pieces"),aes(x=Importer, fill=Importer)) + geom_bar() + xlab("Paises Importadores de piel")
+
+animals_counts <- cites %>%
+                 group_by(App., Taxon) %>%
+                 filter(Exportation.type=="Exported") %>%
+                 summarise(Exportation.number)
+                 
+
+#Animales protegidos
+ggplot(data=animals_counts, aes(x=Exportation.number)) + geom_histogram(bins=10) + xlab("Animales protegidos") + labs(fill = "Taxon")
+
 ```
