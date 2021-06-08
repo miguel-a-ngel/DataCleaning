@@ -192,22 +192,30 @@ anova(model)
 # Visualización
 
 ```{r}
-#Clases exportados e importados
-ggplot(data=cites,aes(x=Class, fill=Exportation.type)) + geom_bar() + xlab("Animales por clase exportadas e importadas") + labs(fill = "Exportation.type")
+#Clases intercambio
+ggplot(data=cites,aes(x=Class, fill=Exportation.type)) + geom_bar() + xlab("Animales por clase") + labs(fill = "Exportation.type") + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
-#Cantidad de especimen exportado por paises
-ggplot(data=subset(cites, Exportation.type == "Exported"),aes(x=Importer, fill=Importer)) + geom_bar(binwidth=1.0) + xlab("Paises Exportadores")
+#Cantidad de intercambios de exportación por paises
+ggplot(data=subset(cites, Exportation.type == "Exported"),aes(x=Exporter, fill=Exporter)) + geom_bar() + xlab("Paises Exportadores") +
+theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), legend.position = "none")
+
+#Cantidad de intercambios de importación por paises
+ggplot(data=subset(cites, Exportation.type == "Imported"),aes(x=Importer, fill=Importer)) + geom_bar() + xlab("Paises Importadores") +
+theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), legend.position = "none")
 
 #Paises/importaciones_de_piel
 ggplot(data=subset(cites, Term == "skins" | Term == "skin pieces"),aes(x=Importer, fill=Importer)) + geom_bar() + xlab("Paises Importadores de piel")
 
-animals_counts <- cites %>%
-                 group_by(App., Taxon) %>%
-                 filter(Exportation.type=="Exported") %>%
-                 summarise(Exportation.number)
-                 
+
+tempA <- subset(cites, App. == "III")
+tempB <- select(tempA,Taxon,Exportation.number)
+
+animals_count = aggregate(x = tempB$Exportation.number,                
+          by = list(Taxon = tempB$Taxon),             
+          FUN = sum)
+
 
 #Animales protegidos
-ggplot(data=animals_counts, aes(x=Exportation.number)) + geom_histogram(bins=10) + xlab("Animales protegidos") + labs(fill = "Taxon")
+ggplot(data=animals_count, aes(x=Taxon, y=x, fill=Taxon, label=x)) + geom_bar(stat='identity') + xlab("Animales protegidos") + labs(fill = "Taxon") + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) + geom_text(aes(label = x), position = position_stack(0.5), size=3)
 
 ```
